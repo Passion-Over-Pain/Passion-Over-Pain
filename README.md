@@ -18,16 +18,11 @@ Hello there! 👋 I'm a passionate developer and creative thinker dedicated to c
 - 📖 **World-building**  
   🌍 Expanding kingdoms, characters, and lore for immersive RPG gameplay.  
   ✨ **Featured Characters:**  
-  - **Mthi ("The Eye")**: Archer with unmatched accuracy.  
-  - **Jasmin**: A druid healer proficient in water magic.  
   - **Atlas Six**: A party of heroes, each with unique backstories and branching interactions.
 
 ---
 
-## 🔧 **Technologies & Tools I Use**
-
-![Tools GIF](https://media.giphy.com/media/3o7TKGM6pDcoC1HBd6/giphy.gif)  
-
+## 🔧 **Technologies & Tools I Use** 
 - **Languages**: JavaScript, HTML, CSS  
 - **Frameworks**: Vanilla (minimalist at heart!)  
 - **Tools**: Visual Studio Code, Firebase  
@@ -52,10 +47,8 @@ Hello there! 👋 I'm a passionate developer and creative thinker dedicated to c
 ---
 
 ## 💡 **RPG Game Highlights**
-
-![Game GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
-
-### 🌌 **The World of Aurelia**
+ 
+### 🌌 **The Known World**
 - A vast, story-rich world featuring **mythical creatures**, **kingdoms**, and elemental lore.  
 - **Kingdom Themes**: Water, fire, wind, and darkness.
 
@@ -76,14 +69,11 @@ Hello there! 👋 I'm a passionate developer and creative thinker dedicated to c
 
 ## 🎯 **Let’s Collaborate!**
 
-![Collaboration GIF](https://media.giphy.com/media/l0HlBoY9Fq9pTjUOk/giphy.gif)  
-
 Whether it's game development, world-building, or crafting stunning animations, I'm always open to sharing ideas and learning from others.  
 
-### 📫 **Connect With Me**
-- 💻 GitHub: [Your GitHub Username](https://github.com/YourGitHubUsername)  
-- 🌐 Portfolio: [YourPortfolioLink](https://yourportfolio.com)  
-- ✉️ Email: [YourEmail@example.com](mailto:YourEmail@example.com)
+### 📫 **Connect With Me** 
+- 🌐 Portfolio: [YourPortfolioLink](https://tinotenda-mhedziso.pages.dev)  
+- ✉️ Email: [YourEmail@example.com](mailto:tinomhedziso22@gmail.com)
 
 ---
 
