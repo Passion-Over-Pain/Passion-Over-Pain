@@ -1,6 +1,4 @@
-# Welcome to My GitHub Universe! 
-
-![Welcome GIF](https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif)  
+# Welcome to My GitHub Universe!  
 
 Hello there! 👋 I'm a passionate developer and creative thinker dedicated to crafting engaging digital experiences. Here's a snapshot of my journey, my current projects, and what drives my work.
 
@@ -84,8 +82,6 @@ Whether it's game development, world-building, or crafting stunning animations, 
 ---
 
 ### 🌟 **Thank You for Visiting!**
-
-![Thank You GIF](https://media.giphy.com/media/26xBJu9ljTSMeESdy/giphy.gif)  
 
 Feel free to star ⭐ my repositories, fork my projects, or drop me a message. Let’s make something amazing together! 🎮
 
