@@ -1,4 +1,4 @@
-# 🌌 Welcome to My GitHub Universe! 🌌
+# Welcome to My GitHub Universe! 
 
 ![Welcome GIF](https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif)  
 
