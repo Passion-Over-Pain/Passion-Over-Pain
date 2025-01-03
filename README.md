@@ -70,8 +70,8 @@ Hello there! 👋 I'm a passionate developer and creative thinker dedicated to c
 Whether it's game development, world-building, or crafting stunning animations, I'm always open to sharing ideas and learning from others.  
 
 ### 📫 **Connect With Me** 
-- 🌐 Portfolio: [YourPortfolioLink](https://tinotenda-mhedziso.pages.dev)  
-- ✉️ Email: [YourEmail@example.com](mailto:tinomhedziso22@gmail.com)
+- 🌐 Portfolio: [My Portfolio](https://tinotenda-mhedziso.pages.dev)  
+- ✉️ Email: [My Email](mailto:tinomhedziso22@gmail.com)
 
 ---
 
