@@ -57,7 +57,7 @@ Hello there! 👋 I'm a passionate developer and creative thinker dedicated to c
 
 ---
 
-## 🔭 **Tips & Notes**
+## 🔭 **Some Notes**
 
 1. **Optimization First**: All projects are tailored for **low-end systems** (e.g., 4GB RAM, i3 processors).  
 2. **Code Readability**: Clean, modular code is always a priority.  
