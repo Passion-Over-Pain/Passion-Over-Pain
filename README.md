@@ -7,7 +7,7 @@ Hello there! 👋 I'm a passionate developer and creative thinker dedicated to c
 ## 🛠️ **Current Focus**
 
 - 🚀 **Building an RPG Game**  
-  A vanilla HTML, CSS, and JavaScript desktop game with rich storytelling, complex branching paths, and fast-paced mini-games.  The game is currently not released that's why you won't find it here :). Follow Me to keep updated though.
+  A vanilla HTML, CSS, and JavaScript desktop game with rich storytelling, complex branching paths, and fast-paced mini-games.  The game is currently not released that's why you won't find it here :). Follow Me to keep updated though. <br>
   🎮 Key Features:  
   - **Dynamic character creation**  
   - **Modular visual interfaces**  
@@ -17,7 +17,7 @@ Hello there! 👋 I'm a passionate developer and creative thinker dedicated to c
   🌍 Expanding kingdoms, characters, and lore for immersive RPG gameplay.  
   ✨ **Featured Characters:**  
   - **Atlas Six**: A party of heroes, each with unique backstories and branching interactions.
-
+Trying to produce an experience that is both fun and induces creativity.
 ---
 
 ## 🔧 **Technologies & Tools I Use** 
