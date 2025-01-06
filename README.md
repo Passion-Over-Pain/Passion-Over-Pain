@@ -51,6 +51,7 @@ Trying to produce an experience that is both fun and induces creativity.
 - **Kingdom Themes**: Water, fire, wind, and darkness.
 
 ### ⚔️ **Game Features**
+- **Character Creation**
 - **Branching Storylines**: Decisions shape the narrative.  
 - **Memory Mini-Games**: Engage players with challenging tasks.  
 - **Fast-paced Combat**: Introduces quick attack and combo mechanics.
