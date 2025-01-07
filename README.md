@@ -1,4 +1,5 @@
-# Welcome to My GitHub Universe ✊🌟
+![PassionOverPain](https://github.com/user-attachments/assets/c54e9dc3-44ae-43ba-a13b-2e8dd684c1cd)
+
 
 Hello there! 👋 I'm a passionate developer and creative thinker dedicated to crafting engaging digital experiences. Here's a snapshot of my journey, my current projects, and what drives my work.
 
