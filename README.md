@@ -1,4 +1,4 @@
-# Welcome to My GitHub Universe!  
+# Welcome to My GitHub Universe ✊🌟
 
 Hello there! 👋 I'm a passionate developer and creative thinker dedicated to crafting engaging digital experiences. Here's a snapshot of my journey, my current projects, and what drives my work.
 
