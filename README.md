@@ -1,13 +1,15 @@
-![PassionOverPain](https://github.com/user-attachments/assets/c54e9dc3-44ae-43ba-a13b-2e8dd684c1cd)
+
+![PassionOverPain](https://github.com/user-attachments/assets/5dfe72f7-0784-40db-9e81-80c81659786d)
 
 
 Hello there! 👋 I'm a passionate developer and creative thinker dedicated to crafting engaging digital experiences. Here's a snapshot of my journey, my current projects, and what drives my work.
 
 ---
+>[!TIP]
+>Whatever you really want to do: Just start today.
 
 ## 🛠️ **Current Focus**
->[!NOTE]
-> ...I am Constantly Revising it so no set structure yet...
+
 - 🚀 **Building an RPG Game**  
   A vanilla HTML, CSS, and JavaScript desktop game with rich storytelling, complex branching paths, and fast-paced mini-games.  The game is currently not released that's why you won't find it here :). Follow Me to keep updated though. <br>
   🎮 Key Features:  
