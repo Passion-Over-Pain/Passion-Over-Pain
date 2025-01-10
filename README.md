@@ -1,5 +1,6 @@
 
-![PassionOverPain](https://github.com/user-attachments/assets/5dfe72f7-0784-40db-9e81-80c81659786d)
+![PassionOverPain](https://github.com/user-attachments/assets/d8a13559-db47-40a3-9684-3b9dec5c6a3e)
+
 
 
 Hello there! 👋 I'm a passionate developer and creative thinker dedicated to crafting engaging digital experiences. Here's a snapshot of my journey, my current projects, and what drives my work.
