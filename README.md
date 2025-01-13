@@ -5,7 +5,7 @@
 >Whatever you really want to do: Just start today.
 ---
 
-Hello there! 👋 I'm a passionate developer and creative thinker dedicated to crafting engaging digital experiences. Here's a snapshot of my journey, my current projects, and what drives my work.
+Hello there! 👋 I'm a passionate developer and creative thinker dedicated to crafting amazing digital experiences. Here's a snapshot of my journey, my current projects, and what drives my work.
 
 ## 🛠️ **Current Focus**
 
