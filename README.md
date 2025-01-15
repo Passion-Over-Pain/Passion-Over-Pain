@@ -43,7 +43,7 @@ Trying to produce an experience that is both fun and induces creativity.
 
 ### 📚 **Future Innovations**
 - Adding **character creation systems** for deeper player personalization.  
-- Deploying the game for low-spec PCs with a focus on optimized assets.
+- Deploying the game for low-spec PCs with a focus on optimized assets and reduced CPU complexity.
 
 ---
 
