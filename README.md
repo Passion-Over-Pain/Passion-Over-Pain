@@ -1,18 +1,19 @@
 
 ![PassionOverPain](https://github.com/user-attachments/assets/d8a13559-db47-40a3-9684-3b9dec5c6a3e)
 
->[!TIP]
->Whatever you really want to do: Just start today.
 ---
 
 Hey There... Yes, You right there 🔎
 Thanks for taking the time to view my project showcase. I am a Final year Bachelor of Information Technology student and junior software developer who turns ideas into innovative software that usually doesn't normally break. Whether I am refining my JavaScript skills or learning more about C#, I view programming as the process of defeating a video game boss: after failing indefinitely, you eventually level up and succeed... unless it's dark souls then **ye**. I have crafted all sorts of things | A mobile app prototype | Node based Chatbot | Some websites | so feel free to look around (P.S I even know how to centre a div). Most software displayed here is open-source, meaning you can basically do whatever you want but since some projects I have acquired assets through other third parties, please view my [terms of service](https://tinotenda-mhedziso.pages.dev/#tos) before modifying or distrubuting any entity owned by me.
+>[!Tip]
+> If you like any project that you see, **please star 🌟 it and follow me**. Helps a small junior dev trying to make it.
 
 ## 🛠️ **Current Focus**
 
 - **A special project with + 10k lines of code that will be released soon**
+- Trying to produce an experience that is both fun and induces creativity.
   
-Trying to produce an experience that is both fun and induces creativity.
+
 ---
 
 ## 🔧 **Technologies & Tools I Use** 
@@ -20,16 +21,12 @@ Trying to produce an experience that is both fun and induces creativity.
 - **Frameworks**: Vanilla (minimalist at heart!)  
 - **Tools**: Visual Studio Code, Firebase  
 - **Version Control**: Git & GitHub  
-- **Design**: Free CSS animations from platforms like Uiverse  
+- **Design**: I often adapt designs from sites like Dribbble.com 
 
 ---
 
 ## 🌟 **What I’m Exploring**
-
-### 🎨 **UI/UX Enhancements**
-- Leveraging **CSS animations** for seamless transitions.  
-- Creating modular components for reusable game assets.  
-
+ 
 ### 🔒 **Backend & Authentication**
 - Integrating Firebase for secure sign-ins.  
 
@@ -38,7 +35,8 @@ Trying to produce an experience that is both fun and induces creativity.
 
 Whether it's game development, world-building, or crafting stunning animations, I'm always open to sharing ideas and learning from others.  
 
-### 📫 **Connect With Me** 
+### 📫 **Connect With Me**
+- 💻 LinkedIn : [My LinkedIn](https://www.linkedin.com/in/tinotenda-mhedziso/)
 - 🌐 Portfolio: [My Website](https://tinotenda-mhedziso.pages.dev)  
 - ✉️ Email: [My Email](mailto:tinomhedziso22@gmail.com)
 
