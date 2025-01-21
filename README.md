@@ -25,11 +25,6 @@ Thanks for taking the time to view my project showcase. I am a Final year Bachel
 
 ---
 
-## 🌟 **What I’m Exploring**
- 
-### 🔒 **Backend & Authentication**
-- Integrating Firebase for secure sign-ins.  
-
 
 ## 🎯 **Let’s Collaborate!**
 
