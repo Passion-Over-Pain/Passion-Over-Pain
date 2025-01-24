@@ -34,7 +34,7 @@ Whether it's game development, world-building, or crafting stunning animations, 
 - 💻 LinkedIn : [My LinkedIn](https://www.linkedin.com/in/tinotenda-mhedziso/)
 - 🌐 Portfolio: [My Website](https://tinotenda-mhedziso.pages.dev)  
 - ✉️ Email: [My Email](mailto:tinomhedziso22@gmail.com)
-
+GitHub Profile update pending...
 ---
 
 ### 🌟 **Thank You for Visiting!**
