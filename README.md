@@ -10,6 +10,7 @@ Thanks for taking the time to view my project showcase. I am a Final year Bachel
 
 ## 🛠️ **Current Focus**
 
+                                                                                                          
 - **A special project with + 10k lines of code that will be released soon**
 - Trying to produce an experience that is both fun and induces creativity.
   
