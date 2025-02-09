@@ -1,11 +1,11 @@
 
 ![PassionOverPain](https://github.com/user-attachments/assets/d8a13559-db47-40a3-9684-3b9dec5c6a3e)
 
-- Day 14 of being unable to code much
+- Day 15 of being unable to code much
 ---
+Final-year Bsc Information Technology student and junior software developer who turns ideas into reliable software. Programming feels like beating a video game boss—you fail, level up, and eventually succeed (unless it's Dark Souls). Most projects are open-source, but please check my [terms of service](https://tinotenda-mhedziso.pages.dev/#tos) and pay Attribution to third-party owners where respective assets are used.
 
-Hey There... Yes, You right there 🔎
-Thanks for taking the time to view my project showcase. I am a Final year Bachelor of Information Technology student and junior software developer who turns ideas into innovative software that usually doesn't normally break. Whether I am refining my JavaScript skills or learning more about C#, I view programming as the process of defeating a video game boss: after failing indefinitely, you eventually level up and succeed... unless it's dark souls then **ye**. I have crafted all sorts of things | A mobile app prototype | Node based Chatbot | Some websites | so feel free to look around (P.S I even know how to centre a div). Most software displayed here is open-source, meaning you can basically do whatever you want but since some projects I have acquired assets through other third parties, please view my [terms of service](https://tinotenda-mhedziso.pages.dev/#tos) before modifying or distrubuting any entity owned by me.
+
 >[!Tip]
 > If you like any project that you see, **please star 🌟 it and follow me**. Helps a small junior dev trying to make it.
 
