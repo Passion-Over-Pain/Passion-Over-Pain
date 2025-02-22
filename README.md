@@ -27,6 +27,13 @@ Final-year Bsc Information Technology student and junior software developer who 
 
 ---
 
+<div align=center>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=494)](https://git.io/streak-stats)
+  
+</div>
+
+---
 
 ## 🎯 **Let’s Collaborate!**
 
