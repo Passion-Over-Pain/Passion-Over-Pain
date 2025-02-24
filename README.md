@@ -5,6 +5,20 @@
 ---
 Final-year Bsc Information Technology student and junior software developer who turns ideas into reliable software. Programming feels like beating a video game boss—you fail, level up, and eventually succeed (unless it's Dark Souls). Most projects are open-source, but please check my [terms of service](https://tinotenda-mhedziso.pages.dev/#tos) and pay Attribution to third-party owners where respective assets are used.
 
+--- 
+## Socials
+
+| [![Dev.to](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidevdotto&size=square&rounded=24&subtitle=Dev.to)](https://dev.to/yourusername) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&size=square&rounded=24&subtitle=tinomhedziso21@gmail.com)](mailto:tinomhedziso21@gmail.com) |
+|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
+| **[Dev.to](https://dev.to/passionoverpain)** | **[Email](mailto:tinomhedziso21@gmail.com)** |
+
+| [![GitHub](http://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Passion-Over-Pain/Pass&subtitle=Passion-Over-Pain&size=square&rounded=24)](https://github.com/Passion-Over-Pain) | [![LinkedIn](http://bentos.jkominovic.dev/api/v1/bento-cards?url=https://za.linkedin.com/in/tinotenda-mhedziso/Pass&subtitle=Tinotenda_Mhedziso&size=square&rounded=24)](https://za.linkedin.com/in/tinotenda-mhedziso) |
+|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
+| **[GitHub](https://github.com/Passion-Over-Pain)** | **[LinkedIn](https://za.linkedin.com/in/tinotenda-mhedziso)** |
+
+---
+
+
 
 >[!Tip]
 > If you like any project that you see, **please star 🌟 it and follow me**. Helps a small junior dev trying to make it.
@@ -19,11 +33,15 @@ Final-year Bsc Information Technology student and junior software developer who 
 ---
 
 ## 🔧 **Technologies & Tools I Use** 
-- **Languages**: JavaScript, HTML, CSS  
-- **Frameworks**: Vanilla (minimalist at heart!)  
-- **Tools**: Visual Studio Code, Firebase  
-- **Version Control**: Git & GitHub  
-- **Design**: I often adapt designs from sites like Dribbble.com 
+![.NET](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidotnet&size=square&rounded=24&subtitle=.NET)
+![CSS](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sicss3&size=square&rounded=24&subtitle=CSS)
+![Dribbble](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidribbble&size=square&rounded=24&subtitle=Dribble)
+![FIREBASE](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sifirebase&size=square&rounded=24&subtitle=Firebase)
+![HTML](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sihtml5&size=square&rounded=24&subtitle=HTML)
+![JAVASCRIPT](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sijavascript&size=square&rounded=24&subtitle=JavaScript)
+![MYSQL](https://bentos.jkominovic.dev/api/v1/generic-card?icon=simysql&size=square&rounded=24&subtitle=MySql)
+![Python](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sipython&size=square&rounded=24&subtitle=Python)
+![REACT](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireact&size=square&rounded=24&subtitle=React)
 
 ---
 
