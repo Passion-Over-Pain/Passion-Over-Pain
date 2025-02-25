@@ -1,7 +1,6 @@
 
 ![PassionOverPain](https://github.com/user-attachments/assets/d8a13559-db47-40a3-9684-3b9dec5c6a3e)
 
-- Day 31 of being unable to code much
 ---
 Final-year Bsc Information Technology student and junior software developer who turns ideas into reliable software. Programming feels like beating a video game boss—you fail, level up, and eventually succeed (unless it's Dark Souls). Most projects are open-source, but please check my [terms of service](https://tinotenda-mhedziso.pages.dev/#tos) and pay Attribution to third-party owners where respective assets are used.
 
@@ -9,15 +8,20 @@ Final-year Bsc Information Technology student and junior software developer who 
 ## Socials
 <div align="center">
   
-| [![Dev.to](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidevdotto&size=square&rounded=24&subtitle=Dev.to)](https://dev.to/passionoverpain) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&size=square&rounded=24&subtitle=tinomhedziso21@gmail.com)](mailto:tinomhedziso21@gmail.com) |
+| [![Dev.to](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidevdotto&size=square&rounded=24&subtitle=Dev-Blog)](https://dev.to/passionoverpain) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&size=square&rounded=24&subtitle=My%20Email)](mailto:tinomhedziso21@gmail.com) |
 |:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
 | **[Dev.to](https://dev.to/passionoverpain)** | **[Email](mailto:tinomhedziso21@gmail.com)** |
 
-| [![GitHub](http://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Passion-Over-Pain/Pass&subtitle=Passion-Over-Pain&size=square&rounded=24)](https://github.com/Passion-Over-Pain) | [![LinkedIn](http://bentos.jkominovic.dev/api/v1/bento-cards?url=https://za.linkedin.com/in/tinotenda-mhedziso/Pass&subtitle=Tinotenda_Mhedziso&size=square&rounded=24)](https://za.linkedin.com/in/tinotenda-mhedziso) |
+| [![Website](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitalenthouse&size=square&rounded=24&subtitle=My%20Website)](https://tinotenda-mhedziso.pages.dev/) |
+|:-------------------------------------------------------------------:|
+| **[My Website](https://tinotenda-mhedziso.pages.dev/)** |
+
+| [![GitHub](http://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Passion-Over-Pain/Pass&subtitle=Project%20Portfolio&size=square&rounded=24)](https://github.com/Passion-Over-Pain) | [![LinkedIn](http://bentos.jkominovic.dev/api/v1/bento-cards?url=https://za.linkedin.com/in/tinotenda-mhedziso/Pass&subtitle=Professional%20Portfolio&size=square&rounded=24)](https://za.linkedin.com/in/tinotenda-mhedziso) |
 |:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
 | **[GitHub](https://github.com/Passion-Over-Pain)** | **[LinkedIn](https://za.linkedin.com/in/tinotenda-mhedziso)** |
 
 </div>
+
 
 ---
 
@@ -36,15 +40,32 @@ Final-year Bsc Information Technology student and junior software developer who 
 ---
 
 ## 🔧 **Technologies & Tools I Use** 
-![.NET](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidotnet&size=square&rounded=24&subtitle=.NET)
-![CSS](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sicss3&size=square&rounded=24&subtitle=CSS)
-![Dribbble](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidribbble&size=square&rounded=24&subtitle=Dribble)
-![FIREBASE](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sifirebase&size=square&rounded=24&subtitle=Firebase)
-![HTML](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sihtml5&size=square&rounded=24&subtitle=HTML)
-![JAVASCRIPT](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sijavascript&size=square&rounded=24&subtitle=JavaScript)
-![MYSQL](https://bentos.jkominovic.dev/api/v1/generic-card?icon=simysql&size=square&rounded=24&subtitle=MySql)
-![Python](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sipython&size=square&rounded=24&subtitle=Python)
-![REACT](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireact&size=square&rounded=24&subtitle=React)
+
+<div align="center">
+
+
+
+#### **Frontend**
+| [![HTML](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sihtml5&size=square&rounded=24&subtitle=Website%20Structure)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![CSS](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sicss3&size=square&rounded=24&subtitle=Website%20Styling)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![JavaScript](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sijavascript&size=square&rounded=24&subtitle=Site%20Interactivity)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![React](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireact&size=square&rounded=24&subtitle=UI%20Framework)](https://react.dev/) |
+|:---:|:---:|:---:|:---:|
+| **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)** | **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)** | **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** | **[React](https://react.dev/)** |
+
+#### **Backend**
+| [![.NET](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidotnet&size=square&rounded=24&subtitle=Desktop%20Apps)](https://dotnet.microsoft.com/) | [![Python](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sipython&size=square&rounded=24&subtitle=Scripting%20&%20AI)](https://www.python.org/) | [![Firebase](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sifirebase&size=square&rounded=24&subtitle=Backend%20Services)](https://firebase.google.com/) |
+|:---:|:---:|:---:|
+| **[.NET](https://dotnet.microsoft.com/)** | **[Python](https://www.python.org/)** | **[Firebase](https://firebase.google.com/)** |
+
+#### **Database**
+| [![MySQL](https://bentos.jkominovic.dev/api/v1/generic-card?icon=simysql&size=square&rounded=24&subtitle=Relational%20DB)](https://www.mysql.com/) |
+|:---:|
+| **[MySQL](https://www.mysql.com/)** |
+
+#### **Design**
+| [![Dribbble](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidribbble&size=square&rounded=24&subtitle=Inspiration)](https://dribbble.com/) | [![Figma](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sifigma&size=square&rounded=24&subtitle=UI/UX%20Design)](https://figma.com/) |
+|:---:|:---:|
+| **[Dribbble](https://dribbble.com/)** | **[Figma](https://www.figma.com/)** |
+
+</div>
 
 ---
 
@@ -56,16 +77,6 @@ Final-year Bsc Information Technology student and junior software developer who 
 
 ---
 
-## 🎯 **Let’s Collaborate!**
-
-Whether it's game development, world-building, or crafting stunning animations, I'm always open to sharing ideas and learning from others.  
-
-### 📫 **Connect With Me**
-- 💻 LinkedIn : [My LinkedIn](https://www.linkedin.com/in/tinotenda-mhedziso/)
-- 🌐 Portfolio: [My Website](https://tinotenda-mhedziso.pages.dev)  
-- ✉️ Email: [My Email](mailto:tinomhedziso22@gmail.com)
-GitHub Profile update pending...
----
 
 ### 🌟 **Thank You for Visiting!**
 
