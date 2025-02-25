@@ -1,21 +1,17 @@
 
-
 <!-- ![PassionOverPain](https://github.com/user-attachments/assets/d8a13559-db47-40a3-9684-3b9dec5c6a3e) -->
 ![GitHub-Banner](https://github.com/user-attachments/assets/6d641ecb-c144-4c5e-a63c-03c4c924320e)
-
-![image](https://github.com/user-attachments/assets/41ac4583-8a52-4296-8871-e8c80b16d17d)
 
 
 ---
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/8246e206-175e-4cb5-b260-8b9c33ed89db" alt="programmer" style="width: 1000px; height: auto;"></td>
+    <td><img src="https://github.com/user-attachments/assets/c96bcaa0-ff09-4b46-832a-526a26f46c0d" alt="programmer" style="width: 1000px; height: auto;"></td>
     <td>
       <p><strong>Final-year Bsc Information Technology student and junior software developer who turns ideas into reliable software. Programming feels like beating a video game boss—you fail, level up, and eventually succeed (unless it's Dark Souls). Most projects are open-source, but please check my <a href="https://tinotenda-mhedziso.pages.dev/#tos">terms of service</a> and pay Attribution to third-party owners where respective assets are used.</strong></p>
     </td>
   </tr>
 </table>
- ![Hollow](https://github.com/user-attachments/assets/03dfdbd5-aae1-46a3-a182-15f494be05ce)
 <br>
 <br>
 <br>
