@@ -84,6 +84,20 @@
 <br>
 <br>
 
+![image](https://github.com/user-attachments/assets/d1080402-c8f8-4298-ac4e-fab2dc991363)
+
+---
+
+<div align=center>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=494)](https://git.io/streak-stats)
+  
+</div>
+
+<br>
+<br>
+<br>
+
 ![image](https://github.com/user-attachments/assets/006185e6-5bd2-4a64-a55b-b4a12d7c2c70)
 
 ---
@@ -142,13 +156,9 @@
 
 ---
 
-<div align=center>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=494)](https://git.io/streak-stats)
-  
-</div>
 
----
+
+
 
 
 ### 🌟 **Thank You for Visiting!**
