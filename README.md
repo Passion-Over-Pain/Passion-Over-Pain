@@ -2,6 +2,8 @@
 <!-- ![PassionOverPain](https://github.com/user-attachments/assets/d8a13559-db47-40a3-9684-3b9dec5c6a3e) -->
 ![GitHub-Banner](https://github.com/user-attachments/assets/6d641ecb-c144-4c5e-a63c-03c4c924320e)
 
+![image](https://github.com/user-attachments/assets/41ac4583-8a52-4296-8871-e8c80b16d17d)
+
 
 ---
 <table>
@@ -13,10 +15,13 @@
   </tr>
 </table>
 
+<br>
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/35b0df15-364c-4a05-91a9-f66587ea4a5a)
+
 ---
-
-
-## Tech Stack
 
 >[!Tip]
 > If you like any project that you see, **please star 🌟 it and follow me**. Helps a junior dev trying to make it.
@@ -72,35 +77,13 @@
   </tr> -->
 </table>
 
+<br>
+<br>
+<br>
 
---- 
-## Socials
-<div align="center">
-  
-| [![Dev.to](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidevdotto&size=square&rounded=24&subtitle=Dev-Blog)](https://dev.to/passionoverpain) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&size=square&rounded=24&subtitle=My%20Email)](mailto:tinomhedziso21@gmail.com) |
-|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
-| **[Dev.to](https://dev.to/passionoverpain)** | **[Email](mailto:tinomhedziso21@gmail.com)** |
-
-| [![Website](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitalenthouse&size=square&rounded=24&subtitle=My%20Website)](https://tinotenda-mhedziso.pages.dev/) |
-|:-------------------------------------------------------------------:|
-| **[My Website](https://tinotenda-mhedziso.pages.dev/)** |
-
-| [![GitHub](http://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Passion-Over-Pain/Pass&subtitle=Project%20Portfolio&size=square&rounded=24)](https://github.com/Passion-Over-Pain) | [![LinkedIn](http://bentos.jkominovic.dev/api/v1/bento-cards?url=https://za.linkedin.com/in/tinotenda-mhedziso/Pass&subtitle=Professional%20Portfolio&size=square&rounded=24)](https://za.linkedin.com/in/tinotenda-mhedziso) |
-|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
-| **[GitHub](https://github.com/Passion-Over-Pain)** | **[LinkedIn](https://za.linkedin.com/in/tinotenda-mhedziso)** |
-
-</div>
-
+![image](https://github.com/user-attachments/assets/006185e6-5bd2-4a64-a55b-b4a12d7c2c70)
 
 ---
-
-
-
-
-
----
-
-## 🔧 **Technologies & Tools I Use** 
 
 <div align="center">
 
@@ -127,6 +110,32 @@
 | **[Dribbble](https://dribbble.com/)** | **[Figma](https://www.figma.com/)** |
 
 </div>
+
+
+<br>
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/de37c7be-e3e9-4952-8c2e-c14a7d21acf1)
+
+--- 
+
+<div align="center">
+  
+| [![Dev.to](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidevdotto&size=square&rounded=24&subtitle=Dev-Blog)](https://dev.to/passionoverpain) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&size=square&rounded=24&subtitle=My%20Email)](mailto:tinomhedziso21@gmail.com) |
+|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
+| **[Dev.to](https://dev.to/passionoverpain)** | **[Email](mailto:tinomhedziso21@gmail.com)** |
+
+| [![Website](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitalenthouse&size=square&rounded=24&subtitle=My%20Website)](https://tinotenda-mhedziso.pages.dev/) |
+|:-------------------------------------------------------------------:|
+| **[My Website](https://tinotenda-mhedziso.pages.dev/)** |
+
+| [![GitHub](http://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Passion-Over-Pain/Pass&subtitle=Project%20Portfolio&size=square&rounded=24)](https://github.com/Passion-Over-Pain) | [![LinkedIn](http://bentos.jkominovic.dev/api/v1/bento-cards?url=https://za.linkedin.com/in/tinotenda-mhedziso/Pass&subtitle=Professional%20Portfolio&size=square&rounded=24)](https://za.linkedin.com/in/tinotenda-mhedziso) |
+|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
+| **[GitHub](https://github.com/Passion-Over-Pain)** | **[LinkedIn](https://za.linkedin.com/in/tinotenda-mhedziso)** |
+
+</div>
+
 
 ---
 
