@@ -5,7 +5,7 @@
 ---
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/0fa3b8d5-40f6-46a7-adff-32854dabcfdb" alt="programmer" style="width: 1000px; height: auto;"></td>
+    <td><img src="https://github.com/user-attachments/assets/0fa3b8d5-40f6-46a7-adff-32854dabcfdb" alt="programmer" style="width: 50vw; height: auto;"></td>
     <td>
       <p><strong>Final-year Bsc Information Technology student and junior software developer who turns ideas into reliable software. Programming feels like beating a video game boss—you fail, level up, and eventually succeed (unless it's Dark Souls). Most projects are open-source, but please check my <a href="https://tinotenda-mhedziso.pages.dev/#tos">terms of service</a> and pay Attribution to third-party owners where respective assets are used.</strong></p>
     </td>
@@ -21,7 +21,7 @@
 >
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/67c6fe1d-303c-4d63-b9bf-bf82d51d3ab9" alt="The Atlas Six" style="width: 300px; height: auto;"></td>
+    <td><img src="https://github.com/user-attachments/assets/67c6fe1d-303c-4d63-b9bf-bf82d51d3ab9" alt="The Atlas Six" style="width: 1000px; height: auto;"></td>
     <td>
       <strong>The Atlas Six</strong>
       <p>A special project with +10k lines of code that will be released soon. Whispers of destiny echo through forgotten lands, where every choice carves a new path. In a journey where loyalty is tested, who will stand with you when the truth is revealed?</p>
@@ -29,7 +29,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/afa1c75b-8097-4068-9e28-82bb77c4f023" alt="Passion" style="width: 300px; height: auto;"></td>
+    <td><img src="https://github.com/user-attachments/assets/afa1c75b-8097-4068-9e28-82bb77c4f023" alt="Passion" style="width: 1000px; height: auto;"></td>
     <td>
       <strong>Passion</strong>
       <p>Passion is my node-based chatbot driven by the GPT-4 mini model designed to provide seamless and intelligent communication, relaying information about me in a more fun but effective way.</p>
@@ -37,7 +37,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ceb0a20e-9820-4c1b-9563-0112b9e76fdd" alt="CreateIT" style="width: 300px; height: auto;"></td>
+    <td><img src="https://github.com/user-attachments/assets/ceb0a20e-9820-4c1b-9563-0112b9e76fdd" alt="CreateIT" style="width: 1000px; height: auto;"></td>
     <td>
       <strong>CreateIT</strong>
       <p>A mobile application prototype that incorporates user's on hands ingredients to consume APIs. CreateIT recommendS meals based on available ingredients, offering a practical and delicious solution to everyday meal planning.</p>
@@ -45,7 +45,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/6283b241-f941-43cb-ad4d-3cc22802838f" alt="Project Management App" style="width: 300px; height: auto;"></td>
+    <td><img src="https://github.com/user-attachments/assets/6283b241-f941-43cb-ad4d-3cc22802838f" alt="Project Management App" style="width: 1000px; height: auto;"></td>
     <td>
       <strong>Project Management App</strong>
       <p>his project management app uses ASP.NET Core Web APIs with Entity Framework for the backend and SQL Server for data storage. The app provides comprehensive task tracking and employee management features, ensuring secure and efficient project workflow. It supports role-based authentication and authorization, enabling Administrators to manage users, Project Managers to oversee projects and tasks, and Systems Analysts/Web Developers to update task statuses.</p></p>
