@@ -1,5 +1,5 @@
 
-![PassionOverPain](https://github.com/user-attachments/assets/d8a13559-db47-40a3-9684-3b9dec5c6a3e)
+<!-- ![PassionOverPain](https://github.com/user-attachments/assets/d8a13559-db47-40a3-9684-3b9dec5c6a3e) -->
 
 
 ---
@@ -11,8 +11,9 @@
     </td>
   </tr>
 </table>
+
 ---
-![tech-stack](https://github.com/user-attachments/assets/5154b274-49b2-4809-84ff-52c2e01de8f8)
+
 
 ## Tech Stack
 
