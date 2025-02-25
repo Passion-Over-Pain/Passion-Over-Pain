@@ -25,7 +25,7 @@
 
 >[!Tip]
 > If you like any project that you see, **please star 🌟 it and follow me**. Helps a junior dev trying to make it.
->
+
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/67c6fe1d-303c-4d63-b9bf-bf82d51d3ab9" alt="The Atlas Six" style="width: 1000px; height: auto;"></td>
@@ -76,6 +76,9 @@
     </td>
   </tr> -->
 </table>
+
+>[!Note]
+> This is <b>not an exhaustive list</b> of all my projects. You can view the full collection  <a href="https://github.com/Passion-Over-Pain?tab=repositories">here</a>.
 
 <br>
 <br>
