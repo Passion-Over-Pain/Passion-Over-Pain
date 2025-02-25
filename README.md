@@ -1,5 +1,6 @@
 
-<!-- ![PassionOverPain](https://github.com/user-attachments/assets/d8a13559-db47-40a3-9684-3b9dec5c6a3e) -->
+
+![PassionOverPain](https://github.com/user-attachments/assets/d8a13559-db47-40a3-9684-3b9dec5c6a3e) -->
 ![GitHub-Banner](https://github.com/user-attachments/assets/6d641ecb-c144-4c5e-a63c-03c4c924320e)
 
 ![image](https://github.com/user-attachments/assets/41ac4583-8a52-4296-8871-e8c80b16d17d)
@@ -14,7 +15,7 @@
     </td>
   </tr>
 </table>
-
+ ![Hollow](https://github.com/user-attachments/assets/03dfdbd5-aae1-46a3-a182-15f494be05ce)
 <br>
 <br>
 <br>
