@@ -7,14 +7,17 @@ Final-year Bsc Information Technology student and junior software developer who 
 
 --- 
 ## Socials
-
-| [![Dev.to](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidevdotto&size=square&rounded=24&subtitle=Dev.to)](https://dev.to/yourusername) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&size=square&rounded=24&subtitle=tinomhedziso21@gmail.com)](mailto:tinomhedziso21@gmail.com) |
+<div align="center">
+  
+| [![Dev.to](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidevdotto&size=square&rounded=24&subtitle=Dev.to)](https://dev.to/passionoverpain) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&size=square&rounded=24&subtitle=tinomhedziso21@gmail.com)](mailto:tinomhedziso21@gmail.com) |
 |:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
 | **[Dev.to](https://dev.to/passionoverpain)** | **[Email](mailto:tinomhedziso21@gmail.com)** |
 
 | [![GitHub](http://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Passion-Over-Pain/Pass&subtitle=Passion-Over-Pain&size=square&rounded=24)](https://github.com/Passion-Over-Pain) | [![LinkedIn](http://bentos.jkominovic.dev/api/v1/bento-cards?url=https://za.linkedin.com/in/tinotenda-mhedziso/Pass&subtitle=Tinotenda_Mhedziso&size=square&rounded=24)](https://za.linkedin.com/in/tinotenda-mhedziso) |
 |:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
 | **[GitHub](https://github.com/Passion-Over-Pain)** | **[LinkedIn](https://za.linkedin.com/in/tinotenda-mhedziso)** |
+
+</div>
 
 ---
 
