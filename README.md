@@ -5,7 +5,7 @@
 ---
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/0fa3b8d5-40f6-46a7-adff-32854dabcfdb" alt="programmer" style="width: 50vw; height: auto;"></td>
+    <td><img src="https://github.com/user-attachments/assets/0fa3b8d5-40f6-46a7-adff-32854dabcfdb" alt="programmer" style="width: 1000px; height: auto;"></td>
     <td>
       <p><strong>Final-year Bsc Information Technology student and junior software developer who turns ideas into reliable software. Programming feels like beating a video game boss—you fail, level up, and eventually succeed (unless it's Dark Souls). Most projects are open-source, but please check my <a href="https://tinotenda-mhedziso.pages.dev/#tos">terms of service</a> and pay Attribution to third-party owners where respective assets are used.</strong></p>
     </td>
