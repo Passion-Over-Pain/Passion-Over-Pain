@@ -19,7 +19,7 @@
 <br>
 <br>
 
-![image](https://github.com/user-attachments/assets/35b0df15-364c-4a05-91a9-f66587ea4a5a)<img src="https://github.com/user-attachments/assets/434516b6-8a44-41b5-8c5a-fc16b0fe40bc"  style="width: 700px; height: auto;"> 
+![image](https://github.com/user-attachments/assets/35b0df15-364c-4a05-91a9-f66587ea4a5a)<img src="https://github.com/user-attachments/assets/434516b6-8a44-41b5-8c5a-fc16b0fe40bc"  style="width: 250px; height: auto;"> 
 
 
 
@@ -83,7 +83,7 @@
 > This is <b>not an exhaustive list</b> of all my projects. You can view the full collection  <a href="https://github.com/Passion-Over-Pain?tab=repositories">here</a>.
 
 
- <img src="https://github.com/user-attachments/assets/48dff542-1ae8-4462-bf33-9f3d78f11da7"  style="width: 500px; height: auto;">  <img src="https://github.com/user-attachments/assets/42815c11-9c0a-4625-9f77-a114fb8c0fcc"  style="width: 500px; height: auto;">
+ <img src="https://github.com/user-attachments/assets/48dff542-1ae8-4462-bf33-9f3d78f11da7"  style="width: 250px; height: auto;">  <img src="https://github.com/user-attachments/assets/42815c11-9c0a-4625-9f77-a114fb8c0fcc"  style="width: 250px; height: auto;">
 
 <br>
 <br>
@@ -99,7 +99,7 @@
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=494)](https://git.io/streak-stats)
 
- <img src="https://github.com/user-attachments/assets/fe0b6793-4e15-4de0-a9ac-54417ee7f32f"  style="width: 500px; height: auto;">  <img src="https://github.com/user-attachments/assets/c1d59907-1965-4431-9946-cf0b5d300d26"  style="width: 500px; height: auto;">
+ <img src="https://github.com/user-attachments/assets/fe0b6793-4e15-4de0-a9ac-54417ee7f32f"  style="width: 250px; height: auto;">  <img src="https://github.com/user-attachments/assets/c1d59907-1965-4431-9946-cf0b5d300d26"  style="width: 250px; height: auto;">
  
 
 </div>
@@ -144,7 +144,7 @@
 <br>
 
 
-![image](https://github.com/user-attachments/assets/de37c7be-e3e9-4952-8c2e-c14a7d21acf1) <img src="https://github.com/user-attachments/assets/74e1b844-a5ec-423a-8a74-270276e9ee65"  style="width: 500px; height: auto;">
+![image](https://github.com/user-attachments/assets/de37c7be-e3e9-4952-8c2e-c14a7d21acf1) <img src="https://github.com/user-attachments/assets/74e1b844-a5ec-423a-8a74-270276e9ee65"  style="width: 250px; height: auto;">
 
 --- 
 
@@ -164,7 +164,7 @@
 
 </div>
 
- <img src="https://github.com/user-attachments/assets/ed4017d8-8f66-4870-9bf8-a2e9873aca58"  style="width: 500px; height: auto;">  <img src="https://github.com/user-attachments/assets/4539f867-57a1-426f-9d38-a8e3a6b7256d"  style="width: 500px; height: auto;">
+ <img src="https://github.com/user-attachments/assets/ed4017d8-8f66-4870-9bf8-a2e9873aca58"  style="width: 250px; height: auto;">  <img src="https://github.com/user-attachments/assets/4539f867-57a1-426f-9d38-a8e3a6b7256d"  style="width: 250px; height: auto;">
 
 
 
