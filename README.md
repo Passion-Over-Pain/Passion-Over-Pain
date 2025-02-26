@@ -193,6 +193,8 @@
 Feel free to star ⭐ my repositories, fork my projects, or drop me a message. Let’s make something amazing together! 🎮
 <img src="https://github.com/user-attachments/assets/712b70cc-701c-44ce-9247-e2517e971d48"  style="width: 1000px; height: auto;"> 
 
+>[!Tip]
+> _Passion Over Pain_ **dear friend**. _Passion over pain_.
 <!--
 **Passion-Over-Pain/Passion-Over-Pain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
