@@ -8,17 +8,20 @@
 <table>
   
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ba5324af-0dda-407b-9a28-ab13c9dd86c9" alt="programmer" style="width: 5000px; height: auto;"></td>
+    <td><img src="https://github.com/user-attachments/assets/52ef2575-554f-46ea-b2b7-4ae0031e28c5" alt="programmer" style="width: 5000px; height: auto;"></td>
     <td>
       <p><strong>Final-year Bsc Information Technology student and junior software developer who turns ideas into reliable software. Programming feels like beating a video game boss—you fail, level up, and eventually succeed (unless it's Dark Souls). Most projects are open-source, but please check my <a href="https://tinotenda-mhedziso.pages.dev/#tos">terms of service</a> and pay Attribution to third-party owners where respective assets are used.</strong></p>
     </td>
   </tr>
 </table>
+
 <br>
 <br>
 <br>
 
-![image](https://github.com/user-attachments/assets/35b0df15-364c-4a05-91a9-f66587ea4a5a)
+![image](https://github.com/user-attachments/assets/35b0df15-364c-4a05-91a9-f66587ea4a5a)<img src="https://github.com/user-attachments/assets/434516b6-8a44-41b5-8c5a-fc16b0fe40bc"  style="width: 700px; height: auto;"> 
+
+
 
 ---
 
@@ -79,6 +82,9 @@
 >[!Note]
 > This is <b>not an exhaustive list</b> of all my projects. You can view the full collection  <a href="https://github.com/Passion-Over-Pain?tab=repositories">here</a>.
 
+
+ <img src="https://github.com/user-attachments/assets/48dff542-1ae8-4462-bf33-9f3d78f11da7"  style="width: 500px; height: auto;">  <img src="https://github.com/user-attachments/assets/42815c11-9c0a-4625-9f77-a114fb8c0fcc"  style="width: 500px; height: auto;">
+
 <br>
 <br>
 <br>
@@ -87,17 +93,22 @@
 
 ---
 
+
+
 <div align=center>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=494)](https://git.io/streak-stats)
-  
+
+ <img src="https://github.com/user-attachments/assets/fe0b6793-4e15-4de0-a9ac-54417ee7f32f"  style="width: 500px; height: auto;">  <img src="https://github.com/user-attachments/assets/c1d59907-1965-4431-9946-cf0b5d300d26"  style="width: 500px; height: auto;">
+ 
+
 </div>
 
 <br>
 <br>
 <br>
 
-![image](https://github.com/user-attachments/assets/006185e6-5bd2-4a64-a55b-b4a12d7c2c70)
+
 
 ---
 
@@ -132,7 +143,8 @@
 <br>
 <br>
 
-![image](https://github.com/user-attachments/assets/de37c7be-e3e9-4952-8c2e-c14a7d21acf1)
+
+![image](https://github.com/user-attachments/assets/de37c7be-e3e9-4952-8c2e-c14a7d21acf1) <img src="https://github.com/user-attachments/assets/74e1b844-a5ec-423a-8a74-270276e9ee65"  style="width: 500px; height: auto;">
 
 --- 
 
@@ -152,6 +164,9 @@
 
 </div>
 
+ <img src="https://github.com/user-attachments/assets/ed4017d8-8f66-4870-9bf8-a2e9873aca58"  style="width: 500px; height: auto;">  <img src="https://github.com/user-attachments/assets/4539f867-57a1-426f-9d38-a8e3a6b7256d"  style="width: 500px; height: auto;">
+
+
 
 ---
 
@@ -163,7 +178,7 @@
 ### 🌟 **Thank You for Visiting!**
 
 Feel free to star ⭐ my repositories, fork my projects, or drop me a message. Let’s make something amazing together! 🎮
-
+<img src="https://github.com/user-attachments/assets/712b70cc-701c-44ce-9247-e2517e971d48"  style="width: 1000px; height: auto;"> 
 
 <!--
 **Passion-Over-Pain/Passion-Over-Pain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
