@@ -19,9 +19,11 @@
 <br>
 <br>
 
+<div align="center">
+  
 ![image](https://github.com/user-attachments/assets/35b0df15-364c-4a05-91a9-f66587ea4a5a)<img src="https://github.com/user-attachments/assets/434516b6-8a44-41b5-8c5a-fc16b0fe40bc"  style="width: 250px; height: auto;"> 
 
-
+</div>
 
 ---
 
@@ -83,19 +85,24 @@
 > This is <b>not an exhaustive list</b> of all my projects. You can view the full collection  <a href="https://github.com/Passion-Over-Pain?tab=repositories">here</a>.
 
 
+<div align="center">
  <img src="https://github.com/user-attachments/assets/48dff542-1ae8-4462-bf33-9f3d78f11da7"  style="width: 250px; height: auto;">  <img src="https://github.com/user-attachments/assets/42815c11-9c0a-4625-9f77-a114fb8c0fcc"  style="width: 250px; height: auto;">
+</div>
 
 <br>
 <br>
 <br>
 
+<div align="center">
+  
 ![image](https://github.com/user-attachments/assets/d1080402-c8f8-4298-ac4e-fab2dc991363)
+</div>
 
 ---
 
 
 
-<div align=center>
+<div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=494)](https://git.io/streak-stats)
 
@@ -110,11 +117,13 @@
 
 
 
----
+
 
 <div align="center">
 
+![image](https://github.com/user-attachments/assets/72ef7a45-e5ad-4b64-8a47-cb0c13796a1d)
 
+---
 
 #### **Frontend**
 | [![HTML](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sihtml5&size=square&rounded=24&subtitle=Website%20Structure)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![CSS](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sicss3&size=square&rounded=24&subtitle=Website%20Styling)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![JavaScript](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sijavascript&size=square&rounded=24&subtitle=Site%20Interactivity)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![React](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireact&size=square&rounded=24&subtitle=UI%20Framework)](https://react.dev/) |
@@ -143,8 +152,11 @@
 <br>
 <br>
 
-
+<div align="center">
+  
 ![image](https://github.com/user-attachments/assets/de37c7be-e3e9-4952-8c2e-c14a7d21acf1) <img src="https://github.com/user-attachments/assets/74e1b844-a5ec-423a-8a74-270276e9ee65"  style="width: 250px; height: auto;">
+
+</div>
 
 --- 
 
@@ -164,9 +176,10 @@
 
 </div>
 
+<div align="center">
  <img src="https://github.com/user-attachments/assets/ed4017d8-8f66-4870-9bf8-a2e9873aca58"  style="width: 250px; height: auto;">  <img src="https://github.com/user-attachments/assets/4539f867-57a1-426f-9d38-a8e3a6b7256d"  style="width: 250px; height: auto;">
 
-
+</div>
 
 ---
 
