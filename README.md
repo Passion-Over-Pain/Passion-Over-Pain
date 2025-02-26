@@ -3,10 +3,12 @@
 ![GitHub-Banner](https://github.com/user-attachments/assets/6d641ecb-c144-4c5e-a63c-03c4c924320e)
 
 
+
 ---
 <table>
+  
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/c96bcaa0-ff09-4b46-832a-526a26f46c0d" alt="programmer" style="width: 1000px; height: auto;"></td>
+    <td><img src="https://github.com/user-attachments/assets/ba5324af-0dda-407b-9a28-ab13c9dd86c9" alt="programmer" style="width: 5000px; height: auto;"></td>
     <td>
       <p><strong>Final-year Bsc Information Technology student and junior software developer who turns ideas into reliable software. Programming feels like beating a video game boss—you fail, level up, and eventually succeed (unless it's Dark Souls). Most projects are open-source, but please check my <a href="https://tinotenda-mhedziso.pages.dev/#tos">terms of service</a> and pay Attribution to third-party owners where respective assets are used.</strong></p>
     </td>
