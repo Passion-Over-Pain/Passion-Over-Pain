@@ -36,7 +36,7 @@
     <td>
       <strong>The Atlas Six</strong>
       <p>A special project with +10k lines of code that will be released soon. Whispers of destiny echo through forgotten lands, where every choice carves a new path. In a journey where loyalty is tested, who will stand with you when the truth is revealed?</p>
-      <a href="your_project_link_A">View Project</a>
+      <a href="https://github.com/Passion-Over-Pain">Currently Hidden</a>
     </td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@
     <td>
       <strong>Passion</strong>
       <p>Passion is my node-based chatbot driven by the GPT-4 mini model designed to provide seamless and intelligent communication, relaying information about me in a more fun but effective way.</p>
-      <a href="your_project_link_B">View Project</a>
+      <a href="https://github.com/Passion-Over-Pain">Currently Hidden</a>
     </td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@
     <td>
       <strong>CreateIT</strong>
       <p>A mobile application prototype that incorporates user's on hands ingredients to consume APIs. CreateIT recommendS meals based on available ingredients, offering a practical and delicious solution to everyday meal planning.</p>
-      <a href="your_project_link_C">View Project</a>
+      <a href="https://github.com/Passion-Over-Pain/CreateIT">View Project</a>
     </td>
   </tr>
   <tr>
@@ -60,7 +60,7 @@
     <td>
       <strong>Project Management App</strong>
       <p>his project management app uses ASP.NET Core Web APIs with Entity Framework for the backend and SQL Server for data storage. The app provides comprehensive task tracking and employee management features, ensuring secure and efficient project workflow. It supports role-based authentication and authorization, enabling Administrators to manage users, Project Managers to oversee projects and tasks, and Systems Analysts/Web Developers to update task statuses.</p></p>
-      <a href="your_project_link_D">View Project</a>
+      <a href="https://github.com/Passion-Over-Pain/ProjectManagementApp-Assignment">View Project</a>
     </td>
   </tr>
 <!--   <tr>
