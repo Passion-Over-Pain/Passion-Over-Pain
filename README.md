@@ -6,9 +6,9 @@
 
 ---
 <table>
-  
+
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/52ef2575-554f-46ea-b2b7-4ae0031e28c5" alt="programmer" style="width: 5000px; height: auto;"></td>
+    <td><img src="https://github.com/user-attachments/assets/1c17d643-0eee-43a5-b29c-89f2c19c1dd1" alt="programmer" style="width: 1000px; height: auto;"></td>
     <td>
       <p><strong>Final-year Bsc Information Technology student and junior software developer who turns ideas into reliable software. Programming feels like beating a video game boss—you fail, level up, and eventually succeed (unless it's Dark Souls). Most projects are open-source, but please check my <a href="https://tinotenda-mhedziso.pages.dev/#tos">terms of service</a> and pay Attribution to third-party owners where respective assets are used.</strong></p>
     </td>
@@ -85,8 +85,9 @@
 > This is <b>not an exhaustive list</b> of all my projects. You can view the full collection  <a href="https://github.com/Passion-Over-Pain?tab=repositories">here</a>.
 
 
+
 <div align="center">
- <img src="https://github.com/user-attachments/assets/48dff542-1ae8-4462-bf33-9f3d78f11da7"  style="width: 250px; height: auto;">  <img src="https://github.com/user-attachments/assets/42815c11-9c0a-4625-9f77-a114fb8c0fcc"  style="width: 250px; height: auto;">
+ <img src="https://github.com/user-attachments/assets/97b79ec2-eed3-4fbe-847f-acfa3fe66040"  style="width: 250px; height: auto;">  <img src="https://github.com/user-attachments/assets/62b67557-7cd0-4205-ac7c-25564fc56d5f"  style="width: 250px; height: auto;">
 </div>
 
 <br>
