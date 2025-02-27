@@ -8,12 +8,21 @@
 <table>
 
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/1c17d643-0eee-43a5-b29c-89f2c19c1dd1" alt="programmer" style="width: 1000px; height: auto;"></td>
     <td>
       <p><strong>Final-year Bsc Information Technology student and junior software developer who turns ideas into reliable software. Programming feels like beating a video game boss—you fail, level up, and eventually succeed (unless it's Dark Souls). Most projects are open-source, but please check my <a href="https://tinotenda-mhedziso.pages.dev/#tos">terms of service</a> and pay Attribution to third-party owners where respective assets are used.</strong></p>
     </td>
   </tr>
 </table>
+
+
+
+
+
+<div align="center">
+  
+<img src="https://github.com/user-attachments/assets/1c17d643-0eee-43a5-b29c-89f2c19c1dd1" alt="programmer" style="width: 200px; height: auto;"><img src="https://github.com/user-attachments/assets/93ea2a25-095f-454e-b978-ce6b223daa41" alt="programmer" style="width: 400px; height: auto;">
+
+</div>
 
 <br>
 <br>
@@ -21,7 +30,7 @@
 
 <div align="center">
   
-![image](https://github.com/user-attachments/assets/35b0df15-364c-4a05-91a9-f66587ea4a5a)<img src="https://github.com/user-attachments/assets/434516b6-8a44-41b5-8c5a-fc16b0fe40bc"  style="width: 250px; height: auto;"> 
+![image](https://github.com/user-attachments/assets/35b0df15-364c-4a05-91a9-f66587ea4a5a)<img src="https://github.com/user-attachments/assets/434516b6-8a44-41b5-8c5a-fc16b0fe40bc"  style="width: 450px; height: auto;"> 
 
 </div>
 
@@ -87,7 +96,7 @@
 
 
 <div align="center">
- <img src="https://github.com/user-attachments/assets/97b79ec2-eed3-4fbe-847f-acfa3fe66040"  style="width: 250px; height: auto;">  <img src="https://github.com/user-attachments/assets/62b67557-7cd0-4205-ac7c-25564fc56d5f"  style="width: 250px; height: auto;">
+ <img src="https://github.com/user-attachments/assets/97b79ec2-eed3-4fbe-847f-acfa3fe66040"  style="width: 450px; height: auto;">  <img src="https://github.com/user-attachments/assets/62b67557-7cd0-4205-ac7c-25564fc56d5f"  style="width: 450px; height: auto;">
 </div>
 
 <br>
