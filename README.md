@@ -18,9 +18,9 @@
 
 
 
-<div align="center">
+<div align="center" style="justify-content:space-between; display:flex; width:100%">
   
-<img src="https://github.com/user-attachments/assets/1c17d643-0eee-43a5-b29c-89f2c19c1dd1" alt="programmer" style="width: 200px; height: auto;"><img src="https://github.com/user-attachments/assets/93ea2a25-095f-454e-b978-ce6b223daa41" alt="programmer" style="width: 400px; height: auto;">
+<img src="https://github.com/user-attachments/assets/1c17d643-0eee-43a5-b29c-89f2c19c1dd1" alt="programmer" style="width: 100px; height: auto;"><img src="https://github.com/user-attachments/assets/93ea2a25-095f-454e-b978-ce6b223daa41" alt="programmer" style="width: 250px; height: auto;">
 
 </div>
 
