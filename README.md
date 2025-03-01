@@ -118,11 +118,19 @@
 
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats-t7al.vercel.app?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=515)](https://git.io/streak-stats)
+
+![](https://github-readme-stats.vercel.app/api?username=Passion-Over-Pain&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats-t7al.vercel.app?user=Passion-Over-Pain&theme=merko&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=515)](https://git.io/streak-stats)<br><br><br>
+![](https://github-contributor-stats.vercel.app/api?username=Passion-Over-Pain&limit=5&theme=merko&combine_all_yearly_contributions=true)<br><br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Over-Pain&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br><br><br>
+![](https://github-profile-trophy.vercel.app/?username=Passion-Over-Pain&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+
+
+
 
  <img src="https://github.com/user-attachments/assets/4da1f880-c32c-416f-b467-77c474f9f1f5"  style="width: 250px; height: auto;">  <img src="https://github.com/user-attachments/assets/adc442e6-ffc0-47d9-85e1-3063127ffd2b6"  style="width: 450px; height: auto;">
  
+
 
 </div>
 
