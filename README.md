@@ -119,7 +119,7 @@
 
 <div align="center">
   
- [![GitHub Streak](https://github-readme-streak-stats-t7al.vercel.app?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-t7al.vercel.app?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=515)](https://git.io/streak-stats)
 
  <img src="https://github.com/user-attachments/assets/4da1f880-c32c-416f-b467-77c474f9f1f5"  style="width: 250px; height: auto;">  <img src="https://github.com/user-attachments/assets/adc442e6-ffc0-47d9-85e1-3063127ffd2b6"  style="width: 450px; height: auto;">
  
