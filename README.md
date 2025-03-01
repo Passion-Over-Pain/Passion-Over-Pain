@@ -119,7 +119,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Passion-Over-Pain&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br><br><br>
+![](https://github-readme-stats.vercel.app/api?username=Passion-Over-Pain&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/><br><br><br>
 [![GitHub Streak](https://github-readme-streak-stats-t7al.vercel.app?user=Passion-Over-Pain&theme=merko&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=515)](https://git.io/streak-stats)<br><br><br>
 ![](https://github-contributor-stats.vercel.app/api?username=Passion-Over-Pain&limit=5&theme=merko&combine_all_yearly_contributions=true)<br><br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Over-Pain&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br><br><br>
