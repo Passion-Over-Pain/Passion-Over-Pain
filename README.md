@@ -9,7 +9,7 @@
 
   <tr>
     <td>
-      <p><strong>Final-year Bsc Information Technology student and junior software developer who turns ideas into reliable software. Programming feels like beating a video game boss—you fail, level up, and eventually succeed (unless it's Dark Souls). Most projects are open-source, but please check my <a href="https://tinotenda-mhedziso.pages.dev/#tos">terms of service</a> and pay Attribution to third-party owners where respective assets are used.</strong></p>
+      <p><strong>Final-year Bsc Information Technology student and junior software developer who turns ideas into reliable software. Programming feels like beating a video game boss—you fail, level up, and eventually succeed (unless it's Dark Souls). Most of my projects are open-source, but please check my <a href="https://tinotenda-mhedziso.pages.dev/#tos">terms of service</a> and pay Attribution to third-party owners where respective assets are used.</strong></p>
     </td>
   </tr>
 </table>
