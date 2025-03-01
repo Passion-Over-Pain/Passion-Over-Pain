@@ -164,9 +164,10 @@
 | **[MySQL](https://www.mysql.com/)** |
 
 #### **Design**
-| [![Dribbble](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidribbble&size=square&rounded=24&subtitle=Inspiration)](https://dribbble.com/) | [![Figma](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sifigma&size=square&rounded=24&subtitle=UI/UX%20Design)](https://figma.com/) |
-|:---:|:---:|
-| **[Dribbble](https://dribbble.com/)** | **[Figma](https://www.figma.com/)** |
+| [![Canva](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sicanva&size=square&rounded=24&subtitle=UI/UX%20Design)](https://canva.com/) | [![Dribbble](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidribbble&size=square&rounded=24&subtitle=Inspiration)](https://dribbble.com/) | [![Figma](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sifigma&size=square&rounded=24&subtitle=UI/UX%20Design)](https://figma.com/) |
+|:---:|:---:|:---:|
+| **[Canva](https://canva.com/)** | **[Dribbble](https://dribbble.com/)** | **[Figma](https://www.figma.com/)** |
+
 
 </div>
 
@@ -185,13 +186,9 @@
 
 <div align="center">
   
-| [![Dev.to](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidevdotto&size=square&rounded=24&subtitle=Dev-Blog)](https://dev.to/passionoverpain) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&size=square&rounded=24&subtitle=My%20Email)](mailto:tinomhedziso21@gmail.com) |
-|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
-| **[Dev.to](https://dev.to/passionoverpain)** | **[Email](mailto:tinomhedziso21@gmail.com)** |
-
-| [![Website](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitalenthouse&size=square&rounded=24&subtitle=My%20Website)](https://tinotenda-mhedziso.pages.dev/) |
-|:-------------------------------------------------------------------:|
-| **[My Website](https://tinotenda-mhedziso.pages.dev/)** |
+| [![Dev.to](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidevdotto&size=square&rounded=24&subtitle=Dev-Blog)](https://dev.to/passionoverpain) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&size=square&rounded=24&subtitle=My%20Email)](mailto:tinomhedziso21@gmail.com) | [![Website](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitalenthouse&size=square&rounded=24&subtitle=My%20Website)](https://tinotenda-mhedziso.pages.dev/) |
+|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
+| **[Dev.to](https://dev.to/passionoverpain)** | **[Email](mailto:tinomhedziso21@gmail.com)** | **[My Website](https://tinotenda-mhedziso.pages.dev/)** |
 
 | [![GitHub](http://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Passion-Over-Pain/Pass&subtitle=Project%20Portfolio&size=square&rounded=24)](https://github.com/Passion-Over-Pain) | [![LinkedIn](http://bentos.jkominovic.dev/api/v1/bento-cards?url=https://za.linkedin.com/in/tinotenda-mhedziso/Pass&subtitle=Professional%20Portfolio&size=square&rounded=24)](https://za.linkedin.com/in/tinotenda-mhedziso) |
 |:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
