@@ -220,17 +220,51 @@ Feel free to star ⭐ my repositories, fork my projects, or drop me a message. L
 
 >[!Tip]
 > _Passion Over Pain_ **dear friend**. _Passion over pain_.
-<!--
-**Passion-Over-Pain/Passion-Over-Pain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
+   <summary>Welcome, Tarnished Warrior.</summary>
+   <br>
+   <details>
+      <summary>In this realm, your spirit will be tested.</summary>
+      <br>
+      <details>
+         <summary>Unseen challenges await at every turn.</summary>
+         <br>
+         <details>
+            <summary>Remember, every obstacle strengthens your resolve.</summary>
+            <br>
+            <details>
+               <summary>Each defeat is but a lesson in disguise.</summary>
+               <br>
+               <details>
+                  <summary>Persevere, and your legend will be forged in flame.</summary>
+                  <br>
+                  <details>
+                     <summary>Let your inner fire guide you through the darkness.</summary>
+                     <br>
+                     <details>
+                        <summary>Stay determined, and you shall overcome.</summary>
+                        <br>
+                        <details>
+                           <summary>Do not let despair consume you.</summary>
+                           <br>
+                           <details>
+                              <summary>For even in the deepest abyss, hope remains.</summary>
+                              <br>
+                              <details>
+                                 <summary>Press on, Tarnished Warrior, and reclaim your light.</summary>
+                                 <br>
+                              </details>
+                           </details>
+                        </details>
+                     </details>
+                  </details>
+               </details>
+            </details>
+         </details>
+      </details>
+   </details>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- https://github.com/user-attachments/assets/24758dcc-33b1-4246-bfef-2e708cca8d0d -->
+
