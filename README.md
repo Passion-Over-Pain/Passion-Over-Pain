@@ -34,6 +34,51 @@ https://github.com/user-attachments/assets/a687a283-e0d0-42ba-a4c1-4a609f4a7099
 
 </div>
 
+<details>
+   <summary>Welcome, Tarnished Warrior.</summary>
+   <br>
+   <details>
+      <summary>In this realm, your spirit will be tested.</summary>
+      <br>
+      <details>
+         <summary>Unseen challenges await at every turn.</summary>
+         <br>
+         <details>
+            <summary>Remember, every obstacle strengthens your resolve.</summary>
+            <br>
+            <details>
+               <summary>Each defeat is but a lesson in disguise.</summary>
+               <br>
+               <details>
+                  <summary>Persevere, and your legend will be forged in flame.</summary>
+                  <br>
+                  <details>
+                     <summary>Let your inner fire guide you through the darkness.</summary>
+                     <br>
+                     <details>
+                        <summary>Stay determined, and you shall overcome.</summary>
+                        <br>
+                        <details>
+                           <summary>Do not let despair consume you.</summary>
+                           <br>
+                           <details>
+                              <summary>For even in the deepest abyss, hope remains.</summary>
+                              <br>
+                              <details>
+                                 <summary>Press on, Tarnished Warrior, and reclaim your light.</summary>
+                                 <br>
+                              </details>
+                           </details>
+                        </details>
+                     </details>
+                  </details>
+               </details>
+            </details>
+         </details>
+      </details>
+   </details>
+</details>
+
 <br>
 <br>
 <br>
@@ -225,50 +270,7 @@ Feel free to star ⭐ my repositories, fork my projects, or drop me a message. L
 >[!Tip]
 > _Passion Over Pain_ **dear friend**. _Passion over pain_.
 
-<details>
-   <summary>Welcome, Tarnished Warrior.</summary>
-   <br>
-   <details>
-      <summary>In this realm, your spirit will be tested.</summary>
-      <br>
-      <details>
-         <summary>Unseen challenges await at every turn.</summary>
-         <br>
-         <details>
-            <summary>Remember, every obstacle strengthens your resolve.</summary>
-            <br>
-            <details>
-               <summary>Each defeat is but a lesson in disguise.</summary>
-               <br>
-               <details>
-                  <summary>Persevere, and your legend will be forged in flame.</summary>
-                  <br>
-                  <details>
-                     <summary>Let your inner fire guide you through the darkness.</summary>
-                     <br>
-                     <details>
-                        <summary>Stay determined, and you shall overcome.</summary>
-                        <br>
-                        <details>
-                           <summary>Do not let despair consume you.</summary>
-                           <br>
-                           <details>
-                              <summary>For even in the deepest abyss, hope remains.</summary>
-                              <br>
-                              <details>
-                                 <summary>Press on, Tarnished Warrior, and reclaim your light.</summary>
-                                 <br>
-                              </details>
-                           </details>
-                        </details>
-                     </details>
-                  </details>
-               </details>
-            </details>
-         </details>
-      </details>
-   </details>
-</details>
+
 
 <!-- https://github.com/user-attachments/assets/24758dcc-33b1-4246-bfef-2e708cca8d0d -->
 
