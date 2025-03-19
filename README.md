@@ -94,56 +94,30 @@ https://github.com/user-attachments/assets/a687a283-e0d0-42ba-a4c1-4a609f4a7099
 >[!Tip]
 > If you like any project that you see, **please star 🌟 it and follow me**. Helps a junior dev trying to make it.
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/67c6fe1d-303c-4d63-b9bf-bf82d51d3ab9" alt="The Atlas Six" style="width: 1000px; height: auto;"></td>
-    <td>
-      <strong>The Atlas Six</strong>
-      <p>A special project with +10k lines of code that will be released soon. Whispers of destiny echo through forgotten lands, where every choice carves a new path. In a journey where loyalty is tested, who will stand with you when the truth is revealed?</p>
-      <a href="https://github.com/Passion-Over-Pain">Currently Hidden</a>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/afa1c75b-8097-4068-9e28-82bb77c4f023" alt="Passion" style="width: 1000px; height: auto;"></td>
-    <td>
-      <strong>Passion</strong>
-      <p>Passion is my node-based chatbot driven by the GPT-4 mini model designed to provide seamless and intelligent communication, relaying information about me in a more fun but effective way.</p>
-      <a href="https://github.com/Passion-Over-Pain">Currently Hidden</a>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/ceb0a20e-9820-4c1b-9563-0112b9e76fdd" alt="CreateIT" style="width: 1000px; height: auto;"></td>
-    <td>
-      <strong>CreateIT</strong>
-      <p>A mobile application prototype that incorporates user's on hands ingredients to consume APIs. CreateIT recommendS meals based on available ingredients, offering a practical and delicious solution to everyday meal planning.</p>
-      <a href="https://github.com/Passion-Over-Pain/CreateIT">View Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/6283b241-f941-43cb-ad4d-3cc22802838f" alt="Project Management App" style="width: 1000px; height: auto;"></td>
-    <td>
-      <strong>Project Management App</strong>
-      <p>his project management app uses ASP.NET Core Web APIs with Entity Framework for the backend and SQL Server for data storage. The app provides comprehensive task tracking and employee management features, ensuring secure and efficient project workflow. It supports role-based authentication and authorization, enabling Administrators to manage users, Project Managers to oversee projects and tasks, and Systems Analysts/Web Developers to update task statuses.</p></p>
-      <a href="https://github.com/Passion-Over-Pain/ProjectManagementApp-Assignment">View Project</a>
-    </td>
-  </tr>
-<!--   <tr>
-    <td><img src="your_icon_path_E" alt="Project E Icon" style="width: 300px; height: auto;"></td>
-    <td>
-      <strong>Project E</strong>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non urna nec ante auctor lacinia. Sed sit amet ligula a orci venenatis ullamcorper.</p>
-      <a href="your_project_link_E">View Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="your_icon_path_F" alt="Project F Icon" style="width: 300px; height: auto;"></td>
-    <td>
-      <strong>Project F</strong>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non urna nec ante auctor lacinia. Sed sit amet ligula a orci venenatis ullamcorper.</p>
-      <a href="your_project_link_F">View Project</a>
-    </td>
-  </tr> -->
-</table>
+<div class="project-cards-container" align="center">
+  <div class="project-card">
+    <a href="https://github.com/Passion-Over-Pain/BursaryApp">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Passion-Over-Pain&repo=BursaryApp&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff" alt="BursaryApp">
+    </a>
+  </div>
+  <div class="project-card">
+    <a href="https://github.com/Passion-Over-Pain/CreateIT">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Passion-Over-Pain&repo=CreateIT&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff" alt="CreateIT">
+    </a>
+  </div>
+  <div class="project-card">
+    <a href="https://github.com/Passion-Over-Pain/ChromeCodeExtension">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Passion-Over-Pain&repo=ChromeCodeExtension&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff" alt="Chrome Code Extension">
+    </a>
+  </div>
+  <div class="project-card">
+    <a href="https://github.com/Passion-Over-Pain/Tinotenda-Mhedziso">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Passion-Over-Pain&repo=Tinotenda-Mhedziso&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff" alt="Tinotenda-Mhedziso">
+    </a>
+  </div>
+</div>
+
+
 
 >[!Note]
 > This is <b>not an exhaustive list</b> of all my projects. You can view the full collection  <a href="https://github.com/Passion-Over-Pain?tab=repositories">here</a>.
@@ -176,7 +150,7 @@ https://github.com/user-attachments/assets/a687a283-e0d0-42ba-a4c1-4a609f4a7099
 ![](https://github-readme-stats.vercel.app/api?username=Passion-Over-Pain&theme=merko&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br/><br><br><br>
 [![GitHub Streak](https://github-readme-streak-stats-t7al.vercel.app?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=515)](https://git.io/streak-stats&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br><br><br>
 ![](https://github-contributor-stats.vercel.app/api?username=Passion-Over-Pain&limit=5&theme=hacker&combine_all_yearly_contributions=true&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br><br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Over-Pain&theme=hacker&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br><br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Over-Pain&theme=hacker&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff&size_weight=0&count_weight=1)<br><br><br>
 ![](https://github-profile-trophy.vercel.app/?username=Passion-Over-Pain&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)
 
 
