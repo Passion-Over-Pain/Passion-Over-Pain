@@ -173,11 +173,11 @@ https://github.com/user-attachments/assets/a687a283-e0d0-42ba-a4c1-4a609f4a7099
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Passion-Over-Pain&theme=merko&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)<br/><br><br><br>
-[![GitHub Streak](https://github-readme-streak-stats-t7al.vercel.app?user=Passion-Over-Pain&theme=merko&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=515)](https://git.io/streak-stats)<br><br><br>
-![](https://github-contributor-stats.vercel.app/api?username=Passion-Over-Pain&limit=5&theme=merko&combine_all_yearly_contributions=true)<br><br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Over-Pain&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br><br><br>
-![](https://github-profile-trophy.vercel.app/?username=Passion-Over-Pain&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=Passion-Over-Pain&theme=merko&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br/><br><br><br>
+[![GitHub Streak](https://github-readme-streak-stats-t7al.vercel.app?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=515)](https://git.io/streak-stats&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br><br><br>
+![](https://github-contributor-stats.vercel.app/api?username=Passion-Over-Pain&limit=5&theme=hacker&combine_all_yearly_contributions=true&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br><br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Over-Pain&theme=hacker&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br><br><br>
+![](https://github-profile-trophy.vercel.app/?username=Passion-Over-Pain&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)
 
 
 
