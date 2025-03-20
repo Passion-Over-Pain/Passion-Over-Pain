@@ -151,7 +151,7 @@ https://github.com/user-attachments/assets/a687a283-e0d0-42ba-a4c1-4a609f4a7099
 [![GitHub Streak](https://github-readme-streak-stats-t7al.vercel.app?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=515)](https://git.io/streak-stats&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br><br><br>
 ![](https://github-contributor-stats.vercel.app/api?username=Passion-Over-Pain&limit=5&theme=hacker&combine_all_yearly_contributions=true&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br><br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Over-Pain&theme=hacker&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff&size_weight=0&count_weight=1)<br><br><br>
-![](https://github-profile-trophy.vercel.app/?username=Passion-Over-Pain&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)
+![](https://github-profile-trophy.vercel.app/?username=Passion-Over-Pain&theme=matrix&no_bg=true)
 
 
 
@@ -176,25 +176,26 @@ https://github.com/user-attachments/assets/a687a283-e0d0-42ba-a4c1-4a609f4a7099
 
 ---
 
-#### **Frontend**
-| [![HTML](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sihtml5&size=square&rounded=24&subtitle=Website%20Structure)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![CSS](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sicss3&size=square&rounded=24&subtitle=Website%20Styling)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![JavaScript](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sijavascript&size=square&rounded=24&subtitle=Site%20Interactivity)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![React](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireact&size=square&rounded=24&subtitle=UI%20Framework)](https://react.dev/) |
+### **Frontend**
+| ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF00&labelColor=000000) | ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF00&labelColor=000000) | ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00&labelColor=000000) | ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF00&labelColor=000000) |
 |:---:|:---:|:---:|:---:|
 | **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)** | **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)** | **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** | **[React](https://react.dev/)** |
 
-#### **Backend**
-| [![.NET](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidotnet&size=square&rounded=24&subtitle=Desktop%20Apps)](https://dotnet.microsoft.com/) | [![Python](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sipython&size=square&rounded=24&subtitle=Scripting%20&%20AI)](https://www.python.org/) | [![Firebase](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sifirebase&size=square&rounded=24&subtitle=Backend%20Services)](https://firebase.google.com/) |
+### **Backend**
+| ![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=00FF00&labelColor=000000) | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00&labelColor=000000) | ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00FF00&labelColor=000000) |
 |:---:|:---:|:---:|
 | **[.NET](https://dotnet.microsoft.com/)** | **[Python](https://www.python.org/)** | **[Firebase](https://firebase.google.com/)** |
 
-#### **Database**
-| [![MySQL](https://bentos.jkominovic.dev/api/v1/generic-card?icon=simysql&size=square&rounded=24&subtitle=Relational%20DB)](https://www.mysql.com/) |
-|:---:|
-| **[MySQL](https://www.mysql.com/)** |
+### **Database**
+| ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00&labelColor=000000) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FF00&labelColor=000000) | ![MS Access](https://img.shields.io/badge/MS%20Access-000000?style=for-the-badge&logo=microsoftaccess&logoColor=00FF00&labelColor=000000) |
+|:---:|:---:|:---:|
+| **[MySQL](https://www.mysql.com/)** | **[SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)** | **[MS Access](https://www.microsoft.com/en-us/microsoft-365/access)** |
 
-#### **Design**
-| [![Canva](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sicanva&size=square&rounded=24&subtitle=UI/UX%20Design)](https://canva.com/) | [![Dribbble](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidribbble&size=square&rounded=24&subtitle=Inspiration)](https://dribbble.com/) | [![Figma](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sifigma&size=square&rounded=24&subtitle=UI/UX%20Design)](https://figma.com/) |
+### **Design**
+| ![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00FF00&labelColor=000000) | ![Dribbble](https://img.shields.io/badge/Dribbble-000000?style=for-the-badge&logo=dribbble&logoColor=00FF00&labelColor=000000) | ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00FF00&labelColor=000000) |
 |:---:|:---:|:---:|
 | **[Canva](https://canva.com/)** | **[Dribbble](https://dribbble.com/)** | **[Figma](https://www.figma.com/)** |
+
 
 
 </div>
