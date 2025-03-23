@@ -119,7 +119,7 @@ https://github.com/user-attachments/assets/a687a283-e0d0-42ba-a4c1-4a609f4a7099
 
 
 
->[!Note]
+>[!Tip]
 > This is <b>not an exhaustive list</b> of all my projects. You can view the full collection  <a href="https://github.com/Passion-Over-Pain?tab=repositories">here</a>.
 
 
