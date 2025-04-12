@@ -1,5 +1,5 @@
 <!-- I am indecesive of which banner to pick :(, but I will have to pick one eventually -->
-<!-- ![PassionOverPain](https://github.com/user-attachments/assets/d8a13559-db47-40a3-9684-3b9dec5c6a3e) summoning jutstu-->
+<!-- ![PassionOverPain](https://github.com/user-attachments/assets/d8a13559-db47-40a3-9684-3b9dec5c6a3e) -->
 
  <a href="https://tinotenda-mhedziso.pages.dev/">
   
