@@ -96,8 +96,13 @@ https://github.com/user-attachments/assets/ba25d821-ce38-483d-878f-28bed5778263
 
 <div class="project-cards-container" align="center">
   <div class="project-card">
-    <a href="https://github.com/Passion-Over-Pain/BursaryApp">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Passion-Over-Pain&repo=BursaryApp&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff" alt="BursaryApp">
+    <a href="https://github.com/Passion-Over-Pain/Passion">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Passion-Over-Pain&repo=Passion&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff" alt="Passion">
+    </a>
+  </div>
+   <div class="project-card">
+    <a href="https://github.com/Passion-Over-Pain/The-Atlas-Six">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Passion-Over-Pain&repo=The-Atlas-Six&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff" alt="The-Atlas-Six">
     </a>
   </div>
   <div class="project-card">
