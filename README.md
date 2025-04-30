@@ -1,14 +1,25 @@
 
 <!-- ![PassionOverPain](https://github.com/user-attachments/assets/d8a13559-db47-40a3-9684-3b9dec5c6a3e)a -->
 
- <a href="https://tinotenda-mhedziso.pages.dev/">
+
+
+## Task 1:
+ Discussion Link: https://github.com/Passion-Over-Pain/Tinotenda-Mhedziso/discussions/10
+ ## Task 2: 
+ GitHub Desktop: https://desktop.github.com/download/
+<br><strong> Ensure your default browser is Google Chrome <strong/>
+ ## Task 3:
+ Join the NMU Computer Society Organisation: https://github.com/NMU-Computer-Society/Welcoming/issues/new/choose
+ 
+ 
+ 
+ <!-- <a href="https://tinotenda-mhedziso.pages.dev/">
   
  ![GitHub-Banner](https://github.com/user-attachments/assets/6d641ecb-c144-4c5e-a63c-03c4c924320e) 
  
- </a>
- 
+ </a> 
 
-https://github.com/user-attachments/assets/ba25d821-ce38-483d-878f-28bed5778263
+https://github.com/user-attachments/assets/ba25d821-ce38-483d-878f-28bed5778263 -->
 
 
 
