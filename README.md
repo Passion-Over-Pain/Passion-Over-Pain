@@ -5,7 +5,8 @@
 
 ## Task 1:
  Discussion Link: https://github.com/Passion-Over-Pain/Tinotenda-Mhedziso/discussions/10
- ## Task 2: 
+ ## Task 2:
+ Collaborating Website: https://passion-over-pain.github.io/Computer-Society-First-PR/ <br>
  GitHub Desktop: https://desktop.github.com/download/
 <br><strong> Ensure your default browser is Google Chrome <strong/>
  ## Task 3:
