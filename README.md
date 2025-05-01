@@ -163,6 +163,26 @@ https://github.com/user-attachments/assets/ba25d821-ce38-483d-878f-28bed5778263
 
  <img src="https://github.com/user-attachments/assets/4da1f880-c32c-416f-b467-77c474f9f1f5"  style="width: 250px; height: auto;">  <img src="https://github.com/user-attachments/assets/adc442e6-ffc0-47d9-85e1-3063127ffd2b6"  style="width: 450px; height: auto;">
  
+<details>
+<summary><strong>What do these stats mean?</strong> (Click to expand)</summary>
+
+### 📊 GitHub Rank Levels (Estimated Metrics)
+
+| **Rank** | **Percentile** | **Commits** | **PRs** | **Issues** | **Stars** | **Followers** | **Repos Owned** |
+|----------|----------------|-------------|---------|------------|-----------|---------------|-----------------|
+| **S**    | Top 1%         | > 1,800     | > 500   | > 400      | > 2,800   | > 600         | > 300           |
+| **A+**   | Top 12.5%      | 400–700     | 100–200 | 60–120     | 150–400   | 80–160        | 80–130          |
+| **A**    | Top 25%        | 200–400     | 50–100  | 30–60      | 80–150    | 40–80         | 50–80           |
+| **A-**   | Top 37.5%      | 100–200     | 25–50   | 15–30      | 40–80     | 20–40         | 30–50           |
+| **B+**   | Top 50%        | 50–100      | 10–25   | 5–15       | 20–40     | 10–20         | 20–30           |
+| **B**    | Top 62.5%      | 30–50       | 5–10    | 2–5        | 10–20     | 5–10          | 10–20           |
+| **B-**   | Top 75%        | 15–30       | 2–5     | 1–2        | 5–10      | 2–5           | 5–10            |
+| **C+**   | Top 87.5%      | 5–15        | 1–2     | 0–1        | 1–5       | 1–2           | 1–5             |
+| **C**    | Bottom 12.5%   | < 5         | 0       | 0          | 0         | 0             | 0               |
+
+> 🧠 These are rough estimates based on community data from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and may vary slightly over time.
+
+</details>
 
 
 </div>
