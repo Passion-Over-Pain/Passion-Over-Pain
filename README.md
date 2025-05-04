@@ -246,13 +246,14 @@ https://github.com/user-attachments/assets/ba25d821-ce38-483d-878f-28bed5778263
 
 <div align="center">
   
-| [![Dev.to](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidevdotto&size=square&rounded=24&subtitle=Dev-Blog)](https://dev.to/passionoverpain) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&size=square&rounded=24&subtitle=My%20Email)](mailto:tinomhedziso21@gmail.com) |
-|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
+| [![Dev.to Badge](https://img.shields.io/badge/Dev.to-Blog-black?logo=dev.to&logoColor=white&style=for-the-badge)](https://dev.to/passionoverpain) | [![Email Badge](https://img.shields.io/badge/Email-Contact-black?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tinomhedziso21@gmail.com) |
+|:----------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
 | **[Dev.to](https://dev.to/passionoverpain)** | **[Email](mailto:tinomhedziso21@gmail.com)** |
 
- | [![LinkedIn](http://bentos.jkominovic.dev/api/v1/bento-cards?url=https://za.linkedin.com/in/tinotenda-mhedziso/Pass&subtitle=Professional%20Portfolio&size=square&rounded=24)](https://za.linkedin.com/in/tinotenda-mhedziso) | [![Website](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitalenthouse&size=square&rounded=24&subtitle=My%20Website)](https://tinotenda-mhedziso.pages.dev/) |
-|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
- | **[LinkedIn](https://za.linkedin.com/in/tinotenda-mhedziso)** | **[My Website](https://tinotenda-mhedziso.pages.dev/)** |
+| [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-black?logo=linkedin&logoColor=white&style=for-the-badge)](https://za.linkedin.com/in/tinotenda-mhedziso) | [![Website Badge](https://img.shields.io/badge/Website-Visit-black?logo=vercel&logoColor=white&style=for-the-badge)](https://tinotenda-mhedziso.pages.dev/) |
+|:-------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|
+| **[LinkedIn](https://za.linkedin.com/in/tinotenda-mhedziso)** | **[My Website](https://tinotenda-mhedziso.pages.dev/)** |
+
 
 </div>
 
