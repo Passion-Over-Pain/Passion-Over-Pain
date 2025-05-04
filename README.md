@@ -152,25 +152,16 @@ https://github.com/user-attachments/assets/ba25d821-ce38-483d-878f-28bed5778263
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Passion-Over-Pain&theme=merko&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff" width="100%"/>
+![](https://github-readme-stats.vercel.app/api?username=Passion-Over-Pain&theme=merko&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff&width=100%)<br/><br><br><br>
 
-<br><br><br>
+[![GitHub Streak](https://github-readme-streak-stats-t7al.vercel.app?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=515)](https://git.io/streak-stats&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br><br><br>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats-t7al.vercel.app?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=515&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff" width="100%"/>
-</a>
+![](https://github-contributor-stats.vercel.app/api?username=Passion-Over-Pain&limit=5&theme=hacker&combine_all_yearly_contributions=true&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br><br><br>
 
-<br><br><br>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Passion-Over-Pain&limit=5&theme=hacker&combine_all_yearly_contributions=true&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff" width="100%"/>
-
-<br><br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Over-Pain&theme=hacker&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff&size_weight=0&count_weight=1" width="100%"/>
-
-<br><br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Over-Pain&theme=hacker&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff&size_weight=0&count_weight=1)<br><br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Passion-Over-Pain&theme=matrix&no_bg=true" width="100%"/>
+
 
 
 
