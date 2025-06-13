@@ -105,16 +105,6 @@
     </a>
   </div>
   <div class="project-card">
-    <a href="https://github.com/Passion-Over-Pain/CreateIT">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Passion-Over-Pain&repo=CreateIT&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff" alt="CreateIT">
-    </a>
-  </div>
-  <div class="project-card">
-    <a href="https://github.com/Passion-Over-Pain/ChromeCodeExtension">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Passion-Over-Pain&repo=ChromeCodeExtension&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff" alt="Chrome Code Extension">
-    </a>
-  </div>
-  <div class="project-card">
     <a href="https://github.com/Passion-Over-Pain/Tinotenda-Mhedziso">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Passion-Over-Pain&repo=Tinotenda-Mhedziso&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff" alt="Tinotenda-Mhedziso">
     </a>
