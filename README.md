@@ -1,14 +1,10 @@
- 
-<!-- ![PassionOverPain](https://github.com/user-attachments/assets/d8a13559-db47-40a3-9684-3b9dec5c6a3e) NOTE TO FUTURE SELF: REFACTOR PORTFOLIO WEBSITE DESIGN :) -->
- 
- 
+
   <a href="https://tinotenda-mhedziso.pages.dev/">
   
  ![GitHub-Banner](https://github.com/user-attachments/assets/6d641ecb-c144-4c5e-a63c-03c4c924320e) 
  
  </a> 
 
-<!-- https://github.com/user-attachments/assets/ba25d821-ce38-483d-878f-28bed5778263 -->
 
 
 
@@ -25,61 +21,6 @@
 
 
 
-
-
-<div align="center" style="justify-content:space-between; display:flex; width:100%">
-  
-<img src="https://github.com/user-attachments/assets/1c17d643-0eee-43a5-b29c-89f2c19c1dd1" alt="programmer" style="width: 100px; height: auto;"><img src="https://github.com/user-attachments/assets/93ea2a25-095f-454e-b978-ce6b223daa41" alt="programmer" style="width: 250px; height: auto;">
-
-</div>
-
-<details>
-   <summary>Welcome, Tarnished Warrior.</summary>
-   <br>
-   <details>
-      <summary>In this realm, your spirit will be tested.</summary>
-      <br>
-      <details>
-         <summary>Unseen challenges await at every turn.</summary>
-         <br>
-         <details>
-            <summary>Remember, every obstacle strengthens your resolve.</summary>
-            <br>
-            <details>
-               <summary>Each defeat is but a lesson in disguise.</summary>
-               <br>
-               <details>
-                  <summary>Persevere, and your legend will be forged in flame.</summary>
-                  <br>
-                  <details>
-                     <summary>Let your inner fire guide you through the darkness.</summary>
-                     <br>
-                     <details>
-                        <summary>Stay determined, and you shall overcome.</summary>
-                        <br>
-                        <details>
-                           <summary>Do not let despair consume you.</summary>
-                           <br>
-                           <details>
-                              <summary>For even in the deepest abyss, hope remains.</summary>
-                              <br>
-                              <details>
-                                 <summary>Press on, Tarnished Warrior, and reclaim your light.</summary>
-                                 <br>
-                              </details>
-                           </details>
-                        </details>
-                     </details>
-                  </details>
-               </details>
-            </details>
-         </details>
-      </details>
-   </details>
-</details>
-
-<br>
-<br>
 <br>
 
 <div align="center">
@@ -123,8 +64,6 @@
 </div>
 
 <br>
-<br>
-<br>
 
 <div align="center">
   
@@ -146,8 +85,7 @@
 [![GitHub Streak](https://github-readme-streak-stats-t7al.vercel.app?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=515)](https://git.io/streak-stats&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br><br><br>
 
 ![](https://github-contributor-stats.vercel.app/api?username=Passion-Over-Pain&limit=5&theme=hacker&combine_all_yearly_contributions=true&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br><br><br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Over-Pain&theme=hacker&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff&size_weight=0&count_weight=1)<br><br><br>
+<br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Passion-Over-Pain&theme=matrix&no_bg=true" width="100%"/>
 
@@ -157,38 +95,11 @@
 
 
  <img src="https://github.com/user-attachments/assets/4da1f880-c32c-416f-b467-77c474f9f1f5"  style="width: 250px; height: auto;">  <img src="https://github.com/user-attachments/assets/adc442e6-ffc0-47d9-85e1-3063127ffd2b6"  style="width: 450px; height: auto;">
- 
-<details>
-<summary><strong>What do these stats mean?</strong> (Click to expand)</summary>
 
-### 📊 GitHub Rank Levels (Estimated Metrics)
-
-| **Rank** | **Percentile** | **Commits** | **PRs** | **Issues** | **Stars** | **Followers** | **Repos Owned** |
-|----------|----------------|-------------|---------|------------|-----------|---------------|-----------------|
-| **S**    | Top 1%         | > 1,800     | > 500   | > 400      | > 2,800   | > 600         | > 300           |
-| **A+**   | Top 12.5%      | 400–700     | 100–200 | 60–120     | 150–400   | 80–160        | 80–130          |
-| **A**    | Top 25%        | 200–400     | 50–100  | 30–60      | 80–150    | 40–80         | 50–80           |
-| **A-**   | Top 37.5%      | 100–200     | 25–50   | 15–30      | 40–80     | 20–40         | 30–50           |
-| **B+**   | Top 50%        | 50–100      | 10–25   | 5–15       | 20–40     | 10–20         | 20–30           |
-| **B**    | Top 62.5%      | 30–50       | 5–10    | 2–5        | 10–20     | 5–10          | 10–20           |
-| **B-**   | Top 75%        | 15–30       | 2–5     | 1–2        | 5–10      | 2–5           | 5–10            |
-| **C+**   | Top 87.5%      | 5–15        | 1–2     | 0–1        | 1–5       | 1–2           | 1–5             |
-| **C**    | Bottom 12.5%   | < 5         | 0       | 0          | 0         | 0             | 0               |
-
-> 🧠 These are rough estimates based on community data from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and may vary slightly over time.
-
-</details>
 
 
 </div>
-
 <br>
-<br>
-<br>
-
-
-
-
 
 <div align="center">
 
