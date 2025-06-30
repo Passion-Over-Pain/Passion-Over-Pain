@@ -1,6 +1,7 @@
 
   <a href="https://tinotenda-mhedziso.pages.dev/">
   <!-- Personal note to self: Use Utterance for comments on portfolio -->
+    
  ![GitHub-Banner](https://github.com/user-attachments/assets/6d641ecb-c144-4c5e-a63c-03c4c924320e) 
  
  </a> 
