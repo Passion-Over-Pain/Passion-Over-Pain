@@ -92,11 +92,6 @@
 
 
 </div>
----
-
-
-
-
 
 
 ### 🌟 **Thank You for Visiting!**
@@ -107,7 +102,4 @@ Feel free to star ⭐ my repositories, fork my projects, or drop me a message. L
 >[!Tip]
 > _Passion Over Pain_ **dear friend**. _Passion over pain_.
 
-
-
-<!-- https://github.com/user-attachments/assets/24758dcc-33b1-4246-bfef-2e708cca8d0d -->
 
