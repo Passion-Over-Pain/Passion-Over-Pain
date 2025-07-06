@@ -1,17 +1,4 @@
-
-  <a href="https://tinotenda-mhedziso.pages.dev/">
-  <!-- Personal note to self: Use Utterance for comments on portfolio 
-    The Atlas Six: Skill tree not responsive on diff screens - PC -->
-    
- ![GitHub-Banner](https://github.com/user-attachments/assets/6d641ecb-c144-4c5e-a63c-03c4c924320e) 
- 
- </a> 
-
-
-
-
-
----
+# About Me
 <table>
 
   <tr>
@@ -21,12 +8,7 @@
   </tr>
 </table>
 
-
-
-<br>
-
----
-
+# Projects
 >[!Tip]
 > If you like any project that you see, **please star 🌟 it and follow me**. Helps a junior dev trying to make it.
 
@@ -53,21 +35,7 @@
 >[!Tip]
 > This is <b>not an exhaustive list</b> of all my projects. You can view the full collection  <a href="https://github.com/Passion-Over-Pain?tab=repositories">here</a>.
 
-
-<br>
-
-<div align="center">
-  
-![image](https://github.com/user-attachments/assets/d1080402-c8f8-4298-ac4e-fab2dc991363)
-</div>
-
----
-
-
-
-
-
-
+# Statistics
 
 <div align="center">
 
@@ -83,13 +51,10 @@
 
 
 </div>
-<br>
+
+# Technologies
 
 <div align="center">
-
-![image](https://github.com/user-attachments/assets/72ef7a45-e5ad-4b64-8a47-cb0c13796a1d)
-
----
 
 ### **Frontend**
 | ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF00&labelColor=000000) | ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF00&labelColor=000000) | ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00&labelColor=000000) | ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF00&labelColor=000000) |
@@ -120,11 +85,7 @@
 <br>
 <br>
 
-<div align="center">
-  
-![image](https://github.com/user-attachments/assets/de37c7be-e3e9-4952-8c2e-c14a7d21acf1)
-
-</div>
+# Socials
 
 --- 
 
