@@ -43,9 +43,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-t7al.vercel.app?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=515)](https://git.io/streak-stats&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br><br><br>
 
-![](https://github-contributor-stats.vercel.app/api?username=Passion-Over-Pain&limit=5&theme=hacker&combine_all_yearly_contributions=true&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br><br><br>
-<br>
-
 <img src="https://github-profile-trophy.vercel.app/?username=Passion-Over-Pain&theme=matrix&no_bg=true" width="100%"/>
 
 
@@ -81,13 +78,7 @@
 </div>
 
 
-<br>
-<br>
-<br>
-
 # Socials
-
---- 
 
 <div align="center">
   
