@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-     Final-year Bsc Information Technology student and junior software developer who turns ideas into reliable software. To me, programming is similar to conquering a challenging video game boss: success often requires persistence, learning, and adaptability ( unless it's Dark Souls). Most of my projects are open-source, but please check <a href="https://tinotenda-mhedziso.pages.dev/#tos"> my terms of service</a> and pay Attribution to third-party owners where respective assets are used.
+     Final-year Bsc Information Technology student and junior software developer who turns ideas into reliable software. To me, programming is similar to conquering a challenging video game boss: success often requires persistence, learning, and adaptability ( unless it's Dark Souls). Most of my projects are open-source, but please check <a href="https://tinotenda-mhedziso.pages.dev/#tos"> my terms of service</a> and give attribution to third-party owners where respective assets are used.
     </td>
   </tr>
 </table>
