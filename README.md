@@ -8,8 +8,6 @@
 </table>
 
 # Projects
->[!Tip]
-> If you like any project that you see, **please star 🌟 it and follow me**. Helps a junior dev trying to make it.
 
 <div class="project-cards-container" align="center">
   <div class="project-card">
@@ -40,7 +38,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Passion-Over-Pain&theme=merko&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff&width=100%)<br/><br><br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats-t7al.vercel.app?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue&card_width=515)](https://git.io/streak-stats&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br><br><br>
+<!-- [![GitHub Streak](https://github-readme-streak-stats-t7al.vercel.app?user=Passion-Over-Pain&theme=hacker&date_format=j%20M%5B%20Y%5D&exclude_days=Tue,Sat&card_width=515)](https://git.io/streak-stats&bg_color=000&icon_color=0f0&title_color=0f0&text_color=fff)<br><br><br> -->
 
 <img src="https://github-profile-trophy.vercel.app/?username=Passion-Over-Pain&theme=matrix&no_bg=true" width="100%"/>
 
