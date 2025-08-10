@@ -1,7 +1,5 @@
 # About Me
 
->[!Tip]
-> Please checkout and star my game, The Atlas Six:  <a href="https://github.com/Passion-Over-Pain/The-Atlas-Six">here</a>.
 <table>
   <tr>
     <td>
