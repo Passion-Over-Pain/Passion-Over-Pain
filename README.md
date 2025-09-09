@@ -93,7 +93,7 @@
 
 ### 🌟 **Thank You for Visiting!**
 
-Feel free to star ⭐ my repositories, fork my projects, or drop me a message. Let’s create something from nothing! 🎮
+Feel free to star ⭐ my repositories, fork my projects, or drop me a message.
 <img src="https://github.com/user-attachments/assets/712b70cc-701c-44ce-9247-e2517e971d48"  style="width: 1000px; height: auto;"> 
 
 >[!Tip]
