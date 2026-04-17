@@ -1,84 +1,92 @@
-# Greetings Traveler, I'm Tino 👋
+# Hi, I'm Tino
 
-Junior Software Developer building real-world digital systems in the agrifood space.
+What, I’ve got about 2 minutes to show you why I’d be a valuable addition to your development team?  
+Alright, no pressure 😅 let’s get into it.
 
-I recently graduated with a Bachelor of Information Technology (Top Student, 2025), and I’m currently working on platforms that connect suppliers, vendors, and customers across the meat and food industry.
+I’m a Junior Software Developer who recently graduated top of my Bachelor of Information Technology class (2025). I mainly work within the JavaScript ecosystem, building real-world applications across web and desktop.
 
-Right now, I focus on building clean, scalable applications across web and desktop using JavaScript.
-
----
-
-## What I Do
-
-• Build full-stack applications using JavaScript, Node.js, and React  
-• Develop desktop apps with Electron.js  
-• Design structured systems (APIs, state, data flow)  
-• Turn ideas into working products, not just prototypes  
-
-I enjoy working on projects that blend logic, user experience, and real-world impact.
+Right now, I’m working in the agrifood space, helping build platforms that connect suppliers, vendors, and customers across the food industry.
 
 ---
 
-## Current Work (AgriFood Tech)
+## So what do I actually build?
 
-I’m currently working within the **AirMeat ecosystem**, contributing to:
+Currently, I contribute to the **AirMeat ecosystem**, which includes:
 
-• **AirMeat** – a digital meat marketplace connecting suppliers and buyers  
-• **Frozen Finds** – an online wholesaler platform for frozen foods  
-• **Africa Meat Expo** – a digital platform for industry events and vendors  
+• **[AirMeat](https://airmeat.africa/)** → a digital marketplace for meat suppliers and buyers  
+• **[Frozen Finds](https://frozenfinds.co.za/)** → an online wholesaler platform for frozen foods  
+• **[Africa Meat Expo](https://meatexpo.airmeat.africa/)** → a full digital platform for a large-scale industry event  
 
-This work involves building and maintaining production systems used by real users.
+The Africa Meat Expo (2026, hosted at Nelson Mandela Bay Stadium) is a pan-African B2B platform for the livestock, meat, seafood, and dairy industry.  
+I designed and built the platform for it end-to-end.
 
----
-
-## Featured Project: The Atlas Six
-
-A desktop fantasy story-based RPG built entirely with JavaScript (no game engine).
-
-• Electron.js + Node.js powered desktop app  
-• JSON-driven branching narrative system  
-• Turn-based battle system (inspired by Slay the Spire / Gwent)  
-• Inventory, skill tree, and player progression systems  
-• Custom-built story engine using recursive event flow  
-
-This project started as a small idea and grew into a full system handling story, gameplay, and state.
-
-👉 https://github.com/Passion-Over-Pain/The-Atlas-Six
+So yeah… not just side projects, real systems used by real people.
 
 ---
 
-## Other Projects
+## My stack
 
-• **Passion (Chatbot System)** – NLP chatbot with web + WhatsApp integration  
-• **Portfolio Website** – interactive personal site with custom features  
-• **SplashScreen (Android App)** – swimming pool management system  
+Most of what I build lives in the JavaScript world:
 
----
+• JavaScript / TypeScript  
+• React / Next.js  
+• Node.js / Express  
+• Electron.js (for desktop apps)  
+• Tailwind / Zod  
 
-## Highlights
-
-• Top Bachelor of IT Student (2025)  
-• Top 100 GitHub Contributors (Ranked #29)  
-• Google-affiliated Cybersecurity Internship  
-• Built and shipped multiple real-world systems  
+I enjoy structuring systems properly, thinking about flow, state, and how everything connects behind the scenes.
 
 ---
 
-## Current Focus
+## Also… I’m building a game
 
-• Improving system architecture and scalability  
-• Building more production-ready applications  
-• Expanding The Atlas Six into a complete experience  
+I’ve always been into games. Not just playing them, but understanding how they work.  
+I’ve spent time with Unity, experimented with Blender, and I enjoy learning about game design in general.
+
+So I decided to build one.
+
+**[The Atlas Six](https://github.com/Passion-Over-Pain/The-Atlas-Six)** is a desktop fantasy story-based RPG I built using JavaScript and Electron, without a traditional game engine.
+
+It includes:
+
+• A branching narrative system driven by JSON  
+• A custom event system that controls story flow  
+• Turn-based combat (inspired by Slay the Spire / Gwent)  
+• Inventory, skill trees, and player progression  
+• Save/load systems with file-based storage  
+
+At its core, the game runs on a recursive system that processes story data and triggers events dynamically.
+
+It started small… and scaled into something much bigger than I expected.
+
 
 ---
 
-## Let’s Connect
+## A bit more about me
 
-If you're interested in collaborating, contributing, or just talking tech:
+I enjoy building things that people can actually use.  
+Not just “projects”, but systems that solve problems or create experiences.
 
-• Portfolio: [https://tinotenda-mhedziso.pages.dev/]  
+My portfolio reflects that too. It’s designed with a cyberpunk, neon-green aesthetic, a bit inspired by the kind of UI you’d see in games like Watch Dogs (which is honestly part of what got me into IT in the first place).
+
+Outside of coding, I’m usually listening to Japanese trap, thinking about new ideas, or refining something I’ve already built.
+
+---
+
+## What I’m focused on now
+
+• Growing as a developer in production environments  
+• Improving scalability and system design  
+• Expanding The Atlas Six into a full experience  
+
+---
+
+## Let’s connect
+
+If you’re looking for someone who enjoys building, learning, and actually shipping things:
+
+• Portfolio: [add link]  
 • LinkedIn: https://linkedin.com/in/tinotenda-mhedziso  
+• GitHub: https://github.com/Passion-Over-Pain  
 
----
-
-_"I like building systems that actually get used."_
+And if you’ve made it this far… yeah, I’d say that 2 minutes was worth it 🙂
