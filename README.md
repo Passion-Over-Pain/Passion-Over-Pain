@@ -7,7 +7,7 @@ Right now, I work in the agrifood space, building systems that connect suppliers
 
 ---
 
-## Enterprise
+## Enterprise Projects
 
 ### AirMeat  
 <a href="https://airmeat.africa/" target="_blank">
@@ -42,7 +42,7 @@ A full digital platform for a large-scale industry event at Nelson Mandela Bay S
 
 ---
 
-## Open Source
+## Open Source Projects
 
 ### CheckMyGit  
 <img width="100%" src="https://github.com/user-attachments/assets/7d6cae9e-5ce4-493a-a930-dd5e0d4362bb" />
@@ -56,7 +56,7 @@ https://github.com/search?q=is%3Apr+author%3APassion-Over-Pain&type=pullrequests
 
 ---
 
-## Personal
+## Personal Projects
 
 ### The Atlas Six  
 <a href="https://github.com/Passion-Over-Pain/The-Atlas-Six" target="_blank">
@@ -111,12 +111,10 @@ IBMA Conference participation
 
 ---
 
-## Connect
+## Find me online
 
 Portfolio: https://tinotenda-mhedziso.pages.dev/  
 LinkedIn: https://linkedin.com/in/tinotenda-mhedziso  
 Dev.to: https://dev.to/passionoverpain  
 
 ---
-
-You made it this far. That already says something.
