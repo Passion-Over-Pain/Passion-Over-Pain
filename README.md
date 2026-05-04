@@ -128,7 +128,6 @@ https://tinotenda-mhedziso.pages.dev
 ---
 
 # Beyond Code
-# Beyond Code
 
 Beyond development, I served as the [Deputy Chairperson of the Nelson Mandela University Computer Society](https://www.linkedin.com/posts/tinotenda-mhedziso_im-honoured-to-share-that-im-starting-a-ugcPost-7317864302944632832-U7QB), where I helped organize student-focused tech initiatives and community events. One of the biggest highlights during my tenure was helping host the national [Telkom 10X Hackathon](https://www.instagram.com/p/DO04_LOiIm7/), where the Eastern Cape region saw 147 attendees take part in the event. It was genuinely rewarding seeing students, developers, and creatives come together to build, compete, and learn from one another.
 
