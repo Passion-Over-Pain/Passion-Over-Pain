@@ -12,7 +12,7 @@ Right now, I work in the agrifood space, building systems that connect suppliers
 
 > *"Oh side note, I build prototypes for fun, actually got a game as well."*
 <a href="https://the-atlas-six.vercel.app">
-<img width="1920" height="1080" alt="the-atlas-six-banner" src="https://github.com/user-attachments/assets/3bae4e52-67c4-4b4b-826a-a7011073de49" />
+<img width="1920" height="1080" alt="the-atlas-six-banner" src="https://github.com/user-attachments/assets/3242f924-3a27-4d71-94fb-a5812cb4cf63" />
 </a>
 <br>
 I am currently building a desktop story-driven RPG using JavaScript. It is powered by a custom JSON-driven narrative system and a recursive event engine designed to handle branching storylines, choices, and gameplay events.
