@@ -21,7 +21,7 @@ Junior Software Developer, graduated top of my Bachelor of Information Technolog
 
 **[Roomy](https://roomy-olive.vercel.app)** - AI-powered architectural visualization platform that converts 2D floor plans into photorealistic 3D renders using Google Gemini's vision model. Built with React Router 7, Puter.js, and TypeScript.
 
-**[SplashScreen](https://splashscreen-20z.pages.dev)** - Full-stack Android app for pool management, tested in real environments. Final year capstone project, graded 93%. Built with Java and Firebase.
+**[SplashScreen](https://splashscreen-teal.vercel.app/)** - Full-stack Android app for pool management, tested in real environments. Final year capstone project, graded 93%. Built with Java and Firebase.
 
 **[Passion](https://tinotenda-mhedziso.pages.dev)** - AI chatbot handling conversations, emails, API calls, and web and WhatsApp integrations. Built with Botpress and custom JavaScript.
 
