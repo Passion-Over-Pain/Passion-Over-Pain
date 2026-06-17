@@ -33,4 +33,4 @@ Junior Software Developer, graduated top of my Bachelor of Information Technolog
 
 ---
 
-[LinkedIn](https://linkedin.com/in/tinotenda-mhedziso) - [Dev.to](https://dev.to/passionoverpain) - [Portfolio](https://tinotenda-mhezdiso.pages.dev)
+[LinkedIn](https://linkedin.com/in/tinotenda-mhedziso) - [Dev.to](https://dev.to/passionoverpain) - [Portfolio](https://tinotenda-mhedziso.pages.dev/)
