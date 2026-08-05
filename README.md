@@ -4,7 +4,7 @@ Junior Software Developer, graduated top of my Bachelor of Information Technolog
 
 ---
 
-## Enterprise Projects
+<!-- ## Enterprise Projects
 
 
 **[Africa Meat Expo](https://meatexpo.airmeat.africa)** - Full digital platform for a large-scale industry event at Nelson Mandela Bay Stadium, supporting exhibitors, sponsors, and attendees. Built with Next.js, TypeScript, and Tailwind CSS.
@@ -13,7 +13,7 @@ Junior Software Developer, graduated top of my Bachelor of Information Technolog
 
 **[Frozen Finds](https://frozenfinds.co.za)** - Frozen food retail platform focused on bulk purchasing and distribution in the Eastern Cape. Built with WordPress, PHP, and JavaScript.
 
----
+--- -->
 
 ## Personal Projects
 
