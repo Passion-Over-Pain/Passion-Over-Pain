@@ -1,6 +1,6 @@
 # Hey, I'm Tino.
 
-Software Developer and digital builder. I graduated with a Bachelor of Information Technology in 2025 as a Top Academic Performer, and I build across web, desktop, and mobile.
+Software Developer and digital product builder. I graduated with a Bachelor of Information Technology in 2025 as a Top Academic Performer, and I build across web, desktop, and mobile.
 
 Most of my work involves turning ideas into working software, figuring things out when they inevitably break, and learning something new along the way. I also build games occasionally, because why not.
 
